@@ -1,0 +1,1250 @@
+## CAPÍTULO IV: DEL PROCEDIMIENTO CONCURSAL DE LIQUIDACIÓN {-}
+
+### Título 1. Del Procedimiento Concursal propiamente tal {-}
+
+#### Párrafo 1. De la Liquidación Voluntaria {-}
+
+##### Artículo 115.- Ámbito de aplicación y requisitos. {-}
+
+La Empresa Deudora podrá solicitar ante el juzgado de letras competente su Liquidación Voluntaria, acompañando los siguientes antecedentes, con copia:
+
+1) Lista de sus bienes, lugar en que se encuentran y los gravámenes que les afectan.
+
+2) Lista de los bienes legalmente excluidos de la Liquidación.
+
+3) Relación de sus juicios pendientes.
+
+4) Estado de deudas, con nombre, domicilio y datos de contacto de los acreedores, así como la naturaleza de sus créditos.
+
+5) Nómina de los trabajadores, cualquiera sea su situación contractual, con indicación de las prestaciones laborales y previsionales adeudadas y fueros en su caso.
+
+6) Si el Deudor llevare contabilidad completa presentará, además, su último balance.
+
+Si se tratare de una persona jurídica, los documentos antes referidos serán firmados por sus representantes legales.
+
+Para los efectos de este Capítulo se denominará indistintamente Empresa Deudora o Deudor.
+
+##### Artículo 116.- Tramitación. {-}
+
+El tribunal competente revisará la presentación del Deudor y, si cumple con los requisitos señalados en el Artículo anterior, procederá dentro de tercero día de conformidad a lo dispuesto en los Artículos 37 y 129, aplicándose lo establecido en el Párrafo 4 de este Título.
+
+#### Párrafo 2. De la Liquidación Forzosa {-}
+
+##### Artículo 117.- Ámbito de aplicación y causales. {-}
+
+Cualquier acreedor podrá demandar el inicio del Procedimiento Concursal de Liquidación de una Empresa Deudora en los siguientes casos:
+
+1) Si cesa en el pago de una obligación que conste en Título ejecutivo con el acreedor solicitante. Esta causal no podrá invocarse para solicitar el inicio del Procedimiento Concursal de Liquidación respecto de los fiadores, codeudores solidarios o subsidiarios, o avalistas de la Empresa Deudora que ha cesado en el pago de las obligaciones garantizadas por éstos.
+
+2) Si existieren en su contra dos o más Títulos ejecutivos vencidos, provenientes de obligaciones diversas, encontrándose iniciadas a lo menos dos ejecuciones, y no hubiere presentado bienes suficientes para responder a la prestación que adeude y a sus costas, dentro de los cuatro días siguientes a los respectivos requerimientos.
+
+3) Cuando la Empresa Deudora o sus administradores no sean habidos, y hayan dejado cerradas sus oficinas o establecimientos sin haber nombrado mandatario con facultades suficientes para dar cumplimiento a sus obligaciones y contestar nuevas demandas. En este caso, el demandante podrá invocar como crédito incluso aquel que se encuentre sujeto a un plazo o a una condición suspensiva.
+
+##### Artículo 118.- Requisitos. {-}
+
+La demanda se presentará ante el tribunal competente, señalará la causal invocada y sus hechos justificativos y acompañará los siguientes antecedentes:
+
+1) Los documentos o antecedentes escritos que acreditan la causal invocada.
+
+2) Vale vista o boleta bancaria expedida a la orden del tribunal por una suma equivalente a 100 unidades de fomento para subvenir los gastos iniciales del Procedimiento Concursal de Liquidación.
+
+En caso que se dicte la correspondiente Resolución de Liquidación, dicha suma será considerada como un crédito del acreedor solicitante, y gozará de la preferencia establecida en el número 4 del Artículo 2472 del Código Civil.
+
+3) El acreedor peticionario podrá designar a un Veedor vigente de la Nómina de Veedores, que asumirá en caso que el Deudor se oponga a la Liquidación Forzosa. Dicho Veedor supervigilará las actividades del Deudor mientras dure la tramitación del Juicio de Oposición, conforme a lo dispuesto en el Párrafo 3 de este Título, y tendrá las facultades de interventor contenidas en el Artículo 25 de esta ley. Los honorarios del Veedor no podrán ser superiores a 100 unidades de fomento y serán de cargo del acreedor peticionario. Asimismo, el demandante podrá solicitar en su demanda cualquiera de las medidas señaladas en los Títulos IV y V del Libro Segundo del Código de Procedimiento Civil. El Veedor estará facultado para solicitar las medidas cautelares que estime necesarias, con cargo del acreedor peticionario, para garantizar la mantención del activo del Deudor mientras dure el Juicio de Oposición, quedando el Deudor sujeto a las restricciones señaladas en el número 2) del Artículo 57 de esta ley.
+
+4) El nombre de los Liquidadores titular y suplente, para el caso que el Deudor no compareciere o no efectuare actuación alguna por escrito en la Audiencia Inicial prevista en el Artículo 120.
+
+El Liquidador o Veedor que hubiera ejercido como tal en algún Procedimiento Concursal, no podrá asumir en otro procedimiento respecto de un mismo Deudor.
+
+##### Artículo 119.- Revisión, primera providencia y notificación. {-}
+
+Presentada la demanda, el tribunal competente examinará en el plazo de tres días el cumplimiento de los requisitos del Artículo precedente. En caso que los considere cumplidos, la tendrá por presentada, ordenará publicarla en el Boletín Concursal y citará a las partes a una audiencia que tendrá lugar al quinto día desde la notificación personal del Deudor o la realizada conforme al Artículo 44 del Código de Procedimiento Civil, aun cuando no se encuentre en el lugar del juicio. En caso contrario, ordenará al demandante la corrección pertinente y fijará un plazo de tres días para que los subsane, bajo apercibimiento de tener por no presentada la demanda.
+
+##### Artículo 120.- Audiencia Inicial. {-}
+
+La Audiencia Inicial se desarrollará conforme a las siguientes reglas:
+
+1) El tribunal informará al Deudor acerca de la demanda presentada en su contra y de los efectos de un eventual Procedimiento Concursal de Liquidación.
+
+2) Acto seguido, el Deudor podrá proponer por escrito o verbalmente alguna de las actuaciones señaladas en los literales siguientes, debiendo siempre señalar el nombre o razón social, domicilio y correo electrónico de sus tres acreedores, o sus representantes legales, que figuren en su contabilidad con los mayores créditos. Si el Deudor no cumple con este requisito el tribunal tendrá por no presentada la actuación y dictará de inmediato la Resolución de Liquidación, nombrando a los Liquidadores titular y suplente, ambos en carácter de provisionales, que el acreedor peticionario hubiere designado en su demanda, conforme a lo dispuesto en el número 4 del Artículo 118. Las referidas actuaciones podrán ser:
+
+a) Consignar fondos suficientes para el pago del crédito demandado y las costas correspondientes. El tribunal tendrá por efectuada la consignación, ordenará practicar la liquidación del crédito, la regulación y tasación de las costas y señalará el plazo en que el Deudor deberá pagarlos, el que se contará desde que esas actuaciones se encuentren firmes. Si el Deudor no pagare en el plazo fijado, el tribunal dictará la respectiva Resolución de Liquidación.
+
+b) Allanarse por escrito o verbalmente a la demanda, dictando en este caso el tribunal la respectiva Resolución de Liquidación.
+
+c) Acogerse expresamente al Procedimiento Concursal de Reorganización contemplado en el Capítulo III de esta ley.
+
+d) Oponerse a la demanda de Liquidación Forzosa, en cuyo caso se observarán las disposiciones del Párrafo 3 del presente Título. La oposición del Deudor sólo podrá fundarse en las causales previstas en el Artículo 464 del Código de Procedimiento Civil.
+
+3) Si el Deudor no compareciere a esta audiencia, o compareciendo no efectúa alguna de las actuaciones señaladas en el número 2 anterior, el tribunal dictará la Resolución de Liquidación y nombrará a los Liquidadores titular y suplente que el acreedor peticionario hubiere designado en su demanda, ambos en carácter de provisionales, conforme a lo dispuesto en el número 4 del Artículo 118.
+
+De lo obrado en esta audiencia se levantará acta, la que deberá ser firmada por los comparecientes y el secretario del tribunal.
+
+#### Párrafo 3. Del Juicio de Oposición {-}
+
+##### Artículo 121.- De la Oposición. {-}
+
+En su escrito de oposición, el Deudor deberá:
+
+1) Señalar las excepciones opuestas y defensas invocadas, así como sus fundamentos de hecho y de derecho;
+
+2) Ofrecer todos los medios de prueba de que pretenda valerse, de conformidad a lo previsto en el Artículo siguiente, y
+
+3) Acompañar toda la prueba documental pertinente.
+
+##### Artículo 122.- De las pruebas. {-}
+
+Para acreditar las excepciones y defensas del Deudor se aplicarán a las reglas siguientes:
+
+1) Prueba testimonial: el escrito de oposición deberá incluir la completa individualización de los testigos que depondrán, así como las razones que justifican su comparecencia.
+
+2) Prueba confesional: el escrito de oposición deberá acompañar el pliego de posiciones. Si el acreedor solicitante fuere una persona jurídica, podrá comparecer cualquier persona habilitada a nombre del representante legal, siempre que exhiba en el día de la diligencia la respectiva delegación, otorgada por escritura pública y en la que conste expresamente la facultad de absolver posiciones a nombre del demandante.
+
+3) Prueba pericial: se aplicarán las disposiciones de los Artículos 409, 410 y 411 del Código de Procedimiento Civil en lo referido a la procedencia de este medio de prueba. Tratándose de casos de informe pericial facultativo, el Deudor deberá exponer las razones que justifican decretar dicha diligencia.
+
+4) Prueba documental: los documentos sólo podrán acompañarse junto al escrito de oposición. Con todo, el tribunal podrá aceptar la agregación de documentos con posterioridad a dicha actuación siempre que la parte que los presenta acredite que se trata de antecedentes que han surgido después de la Audiencia Inicial o que, siendo anteriores, no pudieron acompañarse oportunamente por razones independientes de su voluntad. El tribunal resolverá esta solicitud de plano, con los antecedentes que le sean proporcionados en la misma petición y contra lo resuelto no procederá recurso alguno.
+
+##### Artículo 123.- Resoluciones del tribunal competente. {-}
+
+Deducida la oposición, el tribunal constatará el cumplimiento de los requisitos legales y, si procede, tendrá por opuesto al Deudor a la Liquidación Forzosa y por acompañados los documentos regulados en el Artículo anterior. En caso contrario, se estará a lo dispuesto en el número 3 del Artículo 120.
+
+##### Artículo 124.- Trámites probatorios. {-}
+
+Una vez decretada la oposición, el tribunal competente:
+
+1) Existiendo hechos sustanciales, pertinentes y controvertidos que requieran ser probados para una adecuada resolución de la controversia, recibirá la causa a prueba y fijará los puntos sobre los cuales ésta deberá recaer. Dicha resolución sólo será susceptible de recurso de reposición por las partes, el que deberá interponerse dentro de tercero día. En caso contrario, citará a las partes a la Audiencia de Fallo.
+
+2) Una vez recibida la causa a prueba y fijados los puntos sobre los cuales deberá recaer:
+
+a) Se pronunciará acerca de la admisibilidad y pertinencia de las pruebas ofrecidas;
+
+b) Tratándose de prueba pericial, el tribunal determinará la calidad del perito y los puntos sobre los cuales deberá pronunciarse, instando a las partes para que acuerden su nombre. En caso de desacuerdo, el perito deberá ser designado en ese mismo acto por el tribunal, y se fijará un plazo de siete días para que el perito evacue su informe. No será necesario en estos casos practicar la audiencia de reconocimiento.
+
+c) Concederá al acreedor demandante la oportunidad de ofrecer prueba, la que deberá ser singularizada y acompañada al día siguiente. La resolución acerca de la admisibilidad y pertinencia de las pruebas del acreedor deberá ser pronunciada antes de la Audiencia de Prueba. Contra lo resuelto, el Deudor podrá interponer un recurso de reposición en la forma prevista en el Artículo 125, tramitándose tal petición como cuestión previa.
+
+3) Citará a las partes a una Audiencia de Prueba, la que deberá tener lugar al quinto día siguiente, debiendo indicar la fecha y la hora de celebración. Las partes se entenderán notificadas en ese mismo acto.
+
+En caso de que se fijen nuevos puntos de prueba por haberse acogido la reposición señalada en el número 1) anterior, el tribunal deberá resolver la admisibilidad o pertinencia de las nuevas pruebas antes de la Audiencia de Prueba señalada en el Artículo 126.
+
+##### Artículo 125.- Recursos. {-}
+
+En contra de las resoluciones que se pronuncien en la Audiencia Inicial acerca de la admisibilidad o procedencia de las pruebas ofrecidas, los puntos de prueba fijados, la forma de hacer valer los medios probatorios o cualquier otra circunstancia que incida en éstos, sólo será procedente el recurso de reposición, que deberá deducirse verbalmente por las partes y será resuelto en la misma Audiencia Inicial.
+
+##### Artículo 126.- Audiencia de Prueba. {-}
+
+A la hora decretada y con las partes que asistan, se rendirá la prueba declarada admisible en el siguiente orden: confesional y testimonial, iniciándose por la ofrecida por el Deudor.
+
+Sólo se admitirá la declaración de dos testigos por cada parte respecto de cada punto de prueba. Serán aplicables las reglas de los Artículos 356 y siguientes del Código de Procedimiento Civil respecto de la rendición de la prueba testimonial y lo dispuesto en los Artículos 385 y siguientes del mismo Código en relación a la prueba confesional.
+Concluida la recepción de la prueba, las partes formularán verbal y brevemente las observaciones que el examen de la misma les sugiera, de un modo preciso y concreto.
+La Audiencia de Prueba terminará con la firma de un acta por los asistentes, el juez y el secretario del tribunal. Desde aquel momento, las partes asistentes y las que no hayan asistido se entenderán citadas y notificadas de pleno derecho a la Audiencia de Fallo, la que deberá celebrarse al décimo día contado desde el término de la Audiencia de Prueba, existan o no diligencias pendientes, debiendo el tribunal fijar su hora de inicio.
+Las pruebas señaladas se apreciaran por el tribunal de acuerdo a las reglas de la sana crítica.
+
+##### Artículo 127.- De la Audiencia de Fallo. {-}
+
+La Audiencia de Fallo se celebrará con las partes que asistan y en ella se dictará la sentencia definitiva de primera instancia, la que será notificada a las partes. El secretario del tribunal certificará el hecho de su pronunciamiento, la asistencia de las partes y la copia autorizada que se les entregará de la sentencia definitiva. La parte inasistente se entenderá notificada de pleno derecho con el solo mérito de la celebración de la audiencia.
+
+##### Artículo 128.- De la sentencia definitiva. {-}
+
+La sentencia definitiva que acoja la oposición del Deudor deberá cumplir con lo dispuesto en el Artículo 170 del Código de Procedimiento Civil y, con ocasión de ella, cesará en sus funciones el Veedor. Contra esta sentencia procederá únicamente el recurso de apelación, el que se concederá en ambos efectos y gozará de preferencia extraordinaria para su inclusión a la tabla y para su vista y fallo. Contra el fallo de segunda instancia no procederá recurso alguno, sea ordinario o extraordinario.
+
+La sentencia definitiva que rechace la oposición del Deudor ordenará su liquidación en los términos del Artículo 129 y una vez notificada, el Veedor propuesto en conformidad a lo dispuesto en el número 3 del Artículo 118 cesará en su cargo.
+
+Acogida la oposición del Deudor, éste podrá demandar indemnización de perjuicios al demandante, a su representante legal, o al administrador solicitante, si probare que procedió culpable o dolosamente.
+
+##### Artículo 129.- Resolución de Liquidación.
+
+La Resolución de Liquidación contendrá, además de lo establecido en los Artículos 169 y 170 del Código de Procedimiento Civil, lo siguiente:
+
+1) En caso de ser procedente, las consideraciones de hecho o de derecho que sirven de fundamento para el rechazo de las excepciones opuestas por el Deudor.
+
+2) La determinación de si el Deudor es una Empresa Deudora, individualizándola.
+
+3) La designación de un Liquidador titular y de uno suplente, ambos en carácter de provisionales de acuerdo a lo establecido en el Artículo 37 de esta ley, y la orden al Liquidador para que incaute todos los bienes del Deudor, sus libros y documentos bajo inventario, y de que se le preste, para este objeto, el auxilio de la fuerza pública, con la exhibición de la copia autorizada de la Resolución de Liquidación.
+
+4) La orden para que las oficinas de correos entreguen al Liquidador la correspondencia cuyo destinatario sea el Deudor.
+
+5) La orden de acumular al Procedimiento Concursal de Liquidación todos los juicios pendientes contra el deudor que puedan afectar sus bienes, seguidos ante otros tribunales de cualquier jurisdicción, salvo las excepciones legales.
+
+6) La advertencia al público que no pague ni entregue mercaderías al Deudor, bajo pena de nulidad de los pagos y entregas, y la orden a las personas que tengan bienes o documentos pertenecientes al Deudor para que los pongan, dentro de tercero día, a disposición del Liquidador.
+
+7) La orden de informar a todos los acreedores residentes en el territorio de la República que tienen el plazo de treinta días contado desde la fecha de la publicación de la Resolución de Liquidación, para que se presenten con los documentos justificativos de sus créditos bajo apercibimiento de ser afectados por los resultados del juicio sin nueva citación.
+
+8) La orden de notificar, por el medio más expedito posible, la Resolución de Liquidación a los acreedores que se hallen fuera del territorio de la República.
+
+9) La orden de inscribir la Resolución de Liquidación en los conservadores de bienes raíces correspondientes a cada uno de los inmuebles pertenecientes al Deudor, y de anotarla al margen de la inscripción social de la Empresa Deudora en el Registro de Comercio, si fuere procedente.
+
+10) La indicación precisa del lugar, día y hora en que se celebrará la primera Junta de Acreedores.
+
+La Resolución de Liquidación se notificará al Deudor, a los acreedores y a terceros por medio de su publicación en el Boletín Concursal y contra ella procederá únicamente el recurso de apelación, el que se concederá en el solo efecto devolutivo y gozará de preferencia para su agregación extraordinaria a la tabla, y para su vista y fallo. Contra el fallo de segunda instancia no procederá recurso alguno, sea ordinario o extraordinario.
+
+#### Párrafo 4. De los efectos de la Resolución de Liquidación {-}
+
+##### Artículo 130.- Administración de bienes. {-}
+
+Desde la dictación de la Resolución de Liquidación se producirán los siguientes efectos en relación al Deudor y a sus bienes:
+
+1) Quedará inhibido de pleno derecho de la administración de todos sus bienes presentes, esto es, aquellos sujetos al Procedimiento Concursal de Liquidación y existentes en su patrimonio a la época de la dictación de esta resolución, excluidos aquellos que la ley declare inembargables. Su administración pasará de pleno derecho al Liquidador.
+
+En consecuencia, serán nulos los actos y contratos posteriores que el Deudor ejecute o celebre en relación a estos bienes.
+
+2) No perderá el dominio sobre sus bienes, sino sólo la facultad de disposición sobre ellos y sobre sus frutos.
+
+3) No podrá comparecer en juicio como demandante ni como demandado, en lo relativo a los bienes objeto del Procedimiento Concursal de Liquidación, pero podrá actuar como coadyuvante.
+
+4) Podrá interponer por sí todas las acciones que se refieran exclusivamente a su persona y que tengan por objeto derechos inherentes a ella. Tampoco será privado del ejercicio de sus derechos civiles, ni se le impondrán inhabilidades especiales sino en los casos expresamente determinados por las leyes.
+
+5) En caso de negligencia del Liquidador, podrá solicitar al tribunal que ordene la ejecución de las providencias conservativas que fueren pertinentes.
+
+##### Artículo 131.- Resolución de controversias entre partes. {-}
+
+Todas las cuestiones que se susciten entre el Deudor, el Liquidador y cualquier otro interesado en relación a la administración de los bienes sujetos al Procedimiento Concursal de Liquidación serán resueltas por el tribunal en audiencias verbales, a solicitud del interesado y conforme a las reglas que siguen:
+
+a) El solicitante deberá exponer por escrito al tribunal tanto la petición que formula como los antecedentes que le sirven de sustento.
+
+b) El tribunal analizará la petición y podrá desecharla de plano si considera que carece de fundamento plausible.
+
+c) En caso contrario, citará a las partes a una audiencia verbal que se notificará por el Estado Diario, se publicará por el Liquidador en el Boletín Concursal y se celebrará en el menor tiempo posible.
+
+d) El Liquidador podrá comparecer personalmente o a través de su apoderado judicial. La audiencia se celebrará con las partes que asistan y la resolución que adopte el tribunal sólo será susceptible de reposición, la que deberá deducirse y resolverse en la misma audiencia.
+
+##### Artículo 132.- Administración de bienes en caso de usufructo legal. {-}
+
+La administración que conserva el Deudor sobre los bienes personales de la mujer o hijos de los que tenga el usufructo legal, quedará sujeta a la intervención del Liquidador mientras subsista el derecho del marido, padre o madre sujeto al Procedimiento Concursal de Liquidación.
+
+El Liquidador cuidará que los frutos líquidos que produzcan estos bienes ingresen a la masa, deducidas las cargas legales o convencionales que los graven.
+
+El tribunal, con audiencia del Liquidador y del Deudor, determinará la cuota de los frutos que correspondan a este último para su subsistencia y la de su familia, habida consideración de sus necesidades y la cuantía de los bienes bajo intervención.
+
+El Liquidador podrá comparecer como parte coadyuvante en los juicios de separación de bienes y de divorcio en que el Deudor sea demandado o demandante.
+
+##### Artículo 133.- Situación de los bienes futuros. {-}
+
+La administración de los bienes que adquiera el Deudor con posterioridad a la Resolución de Liquidación se regirá por las reglas que siguen:
+
+a) Tratándose de bienes adquiridos a Título gratuito, dicha administración se ejercerá por el Liquidador, manteniéndose la responsabilidad por las cargas con que le hayan sido transferidos o transmitidos y sin perjuicio de los derechos de los acreedores hereditarios.
+
+b) Tratándose de bienes adquiridos a Título oneroso, su administración podrá ser sometida a intervención, y los acreedores sólo tendrán derecho a los beneficios líquidos que se obtengan.
+
+##### Artículo 134.- Fijación de derechos de acreedores. {-}
+
+La Resolución de Liquidación fija irrevocablemente los derechos de todos los acreedores en el estado que tenían al día de su pronunciamiento, salvo las excepciones legales.
+
+##### Artículo 135.- Suspensión de ejecuciones individuales. {-}
+
+La dictación de la Resolución de Liquidación suspende el derecho de los acreedores para ejecutar individualmente al Deudor.
+
+Con todo, los acreedores hipotecarios y prendarios podrán deducir o continuar sus acciones en los bienes gravados con hipoteca o prenda, sin perjuicio de la posibilidad de realizarlos en el Procedimiento Concursal de Liquidación. En ambos casos, para percibir deberán garantizar el pago de los créditos de primera clase que hayan sido verificados ordinariamente o antes de la fecha de liquidación de los bienes afectos a sus respectivas garantías, por los montos que en definitiva resulten reconocidos.
+
+##### Artículo 136.- Exigibilidad y reajustabilidad de obligaciones. {-}
+
+Una vez dictada la Resolución de Liquidación, todas las obligaciones dinerarias se entenderán vencidas y actualmente exigibles respecto del Deudor, para que los acreedores puedan verificarlas en el Procedimiento Concursal de Liquidación y percibir el pago de sus acreencias. Estas últimas se pagarán según su valor actual más los reajustes e intereses que correspondan, de conformidad a las reglas del Artículo siguiente.
+
+##### Artículo 137.- Determinación del valor actual de los créditos. {-}
+
+Para determinar el valor actual de los créditos se seguirán las siguientes reglas:
+
+1) El valor actual de los créditos reajustables en moneda nacional, no vencidos a la fecha de la dictación de la Resolución de Liquidación y que devenguen intereses, será el capital más el reajuste convenido e intereses para operaciones reajustables devengados hasta la fecha de dicha resolución.
+
+2) El valor actual de los créditos reajustables en moneda nacional, no vencidos a la fecha de la dictación de la Resolución de Liquidación y que no devenguen intereses, será el capital más el reajuste convenido hasta la fecha de dicha resolución.
+
+3) El valor actual de los créditos no reajustables en moneda nacional, no vencidos a la fecha de la dictación de la Resolución de Liquidación y que devenguen intereses, será el capital más los intereses para operaciones no reajustables devengados hasta la fecha de dicha resolución.
+
+4) El valor actual de los créditos no reajustables en moneda nacional, no vencidos a la fecha de la dictación de la Resolución de Liquidación y que no devenguen intereses, se determinará descontando del capital los intereses corrientes para operaciones de crédito de dinero no reajustables desde la fecha de la Resolución de Liquidación hasta el día de los respectivos vencimientos. Si no fuere posible determinar el índice de reajustabilidad o si éste hubiere perdido su vigencia, se aplicará lo dispuesto en el número 3) anterior.
+
+##### Artículo 138.- Exigibilidad de otros instrumentos. {-}
+
+Si el Deudor fuere aceptante de una letra de cambio, librador de una letra no aceptada o suscriptor de un pagaré, los demás obligados deberán pagar dichos instrumentos inmediatamente.
+
+##### Artículo 139.- Reajuste y cálculo de intereses. {-}
+
+En virtud de la dictación de la Resolución de Liquidación y desde la fecha de ésta, las acreencias del Deudor, vencidas y las actualizadas de conformidad con el Artículo 137:
+1) Se reajustarán y devengarán intereses según lo pactado en la convención, en el caso del número 1) del Artículo 137.
+
+2) Se reajustarán según lo pactado, en el caso del número 2) del mismo Artículo.
+
+3) Devengarán intereses corrientes para operaciones de crédito de dinero no reajustables en el caso de los números 3) y 4) del Artículo 137.
+
+El Liquidador podrá impugnar los intereses pactados en caso de estimarlos excesivos.
+Las obligaciones contraídas en moneda extranjera se pagarán en la misma moneda establecida en la convención y devengarán el interés pactado en ella.
+
+Los reajustes y los intereses, en su caso, gozarán de iguales preferencias que el respectivo capital al cual acceden.
+
+Sin embargo, los intereses que se devenguen con posterioridad a la dictación de la Resolución de Liquidación quedarán pospuestos para su pago hasta que se pague el capital de los demás créditos en el Procedimiento Concursal de Liquidación.
+
+##### Artículo 140.- Compensaciones. {-}
+
+La dictación de la Resolución de Liquidación impide toda compensación que no hubiere operado antes por el ministerio de la ley, entre las obligaciones recíprocas del Deudor y los acreedores, salvo que se trate de obligaciones conexas, derivadas de un mismo contrato o de una misma negociación y aunque sean exigibles en diferentes plazos.
+
+Para estos efectos, se entenderá que revisten el carácter de obligaciones conexas aquellas que, aun siendo en distinta moneda, emanen de operaciones de derivados, tales como futuros, opciones, swaps, forwards u otros instrumentos o contratos de derivados suscritos entre las mismas partes, en una o más oportunidades, bajo ley chilena o extranjera, al amparo de un mismo convenio marco de contratación de los reconocidos por el Banco Central y que incluyan un acuerdo de compensación en caso de Liquidación Voluntaria o de Liquidación Forzosa. El Banco Central de Chile podrá determinar los términos y condiciones generales de los convenios marco de contratación referidos en que sea parte una empresa bancaria o cualquier otro inversionista institucional, considerando para ello los convenios de general aceptación en los mercados internacionales.
+
+Cada una de las obligaciones que emanen de operaciones de derivados efectuadas en la forma antedicha, se entenderá de plazo vencido, líquida y actualmente exigible a la fecha de la dictación de la Resolución de Liquidación y su valor se calculará a dicha fecha de acuerdo a sus términos y condiciones. Luego, las compensaciones que operen por aplicación del inciso precedente serán calculadas y ejecutadas simultáneamente en dicha fecha.
+
+En caso que una de las partes sea un banco establecido en Chile, sólo procederá dicha compensación tratándose de operaciones con productos derivados cuyos términos y condiciones se encuentren autorizados por el Banco Central de Chile.
+
+##### Artículo 141.- Derecho legal de retención en el contrato de arrendamiento. {-}
+
+El derecho legal de retención no podrá ser declarado después de la Resolución de Liquidación.
+
+Durante los treinta días siguientes a la notificación de dicha resolución, el arrendador no podrá perseguir la realización de los bienes muebles destinados a la explotación de los negocios del Deudor por los arrendamientos vencidos, sin perjuicio de su derecho para solicitar providencias conservativas, las que deberán ser resueltas por el tribunal de conformidad al Artículo 131.
+
+Si el arrendamiento ha expirado por alguna causa legal, el arrendador podrá exigir la entrega del inmueble y entablar las acciones correspondientes.
+
+##### Artículo 142.- Regla general de acumulación al Procedimiento Concursal de Liquidación. {-}
+
+Todos los juicios civiles pendientes contra el Deudor ante otros tribunales se acumularán al Procedimiento Concursal de Liquidación. Los que se inicien con posterioridad a la notificación de la Resolución de Liquidación se promoverán ante el tribunal que esté conociendo del Procedimiento Concursal de Liquidación.
+
+Los juicios civiles acumulados al Procedimiento Concursal de Liquidación seguirán tramitándose con arreglo al procedimiento que corresponda según su naturaleza, hasta que quede ejecutoriada la sentencia definitiva.
+
+##### Artículo 143.- Excepciones. {-}
+
+La regla de acumulación indicada en el Artículo anterior no se aplicará a los siguientes juicios, que seguirán tramitándose o deberán sustanciarse ante el tribunal competente, respectivamente:
+
+1) Los que a la fecha estuvieren siendo conocidos por árbitros.
+
+2) Los que fueren materias de arbitraje forzoso.
+
+3) Aquellos sometidos por ley a tribunales especiales.
+
+En caso que el Deudor fuere condenado en alguno de los juicios acumulados al Procedimiento Concursal de Liquidación, el Liquidador dará cumplimiento a lo resuelto de conformidad a las disposiciones de esta ley.
+
+##### Artículo 144.- Acumulación de juicios ejecutivos en obligaciones de dar. {-}
+
+La acumulación al Procedimiento Concursal de Liquidación de esta clase de juicios se sujetará a las reglas siguientes:
+
+1) Si no existieren excepciones opuestas, los juicios se suspenderán en el estado en que se encuentren al momento de notificarse la Resolución de Liquidación.
+
+El tribunal de la ejecución pronunciará una resolución que suspenderá la tramitación y ordenará remitir los expedientes al tribunal que esté conociendo del Procedimiento Concursal de Liquidación para que continúe su tramitación. En tal caso, los acreedores ejecutantes verificarán sus créditos conforme a las reglas generales.
+
+2) Si existieren excepciones opuestas, el tribunal de la ejecución ordenará remitir los expedientes al tribunal que esté conociendo del Procedimiento Concursal de Liquidación y, una vez recibidos, se seguirá adelante en su tramitación particular hasta la resolución de término. En tal caso, el Liquidador asumirá la representación judicial del Deudor y los acreedores ejecutantes podrán verificar sus créditos en forma condicional.
+
+##### Artículo 145.- Acumulación de juicios ejecutivos en obligaciones de hacer. {-}
+
+La acumulación al Procedimiento Concursal de Liquidación de esta clase de juicios se sujetará a las siguientes reglas:
+
+1) Si los fondos para dar cumplimiento al objeto del litigio se encontraren depositados antes de la notificación de la Resolución de Liquidación, el tribunal de la ejecución ordenará remitir los expedientes al tribunal que esté conociendo del Procedimiento Concursal de Liquidación, continuándose la tramitación hasta la inversión total de los fondos o la conclusión de la obra que con ellos deba pagarse.
+
+2) En caso contrario, los juicios se acumularán sin importar el estado en que se encuentren y el acreedor sólo podrá verificar el monto de los perjuicios que el tribunal respectivo hubiere declarado o que se declaren con posterioridad por el tribunal que conoce del Procedimiento Concursal de Liquidación.
+
+##### Artículo 146.- Norma común para juicios ejecutivos. {-}
+
+Si entre los ejecutados existieren personas distintas del Deudor, el tribunal de la ejecución deberá:
+
+1) Suspender la tramitación sólo respecto del Deudor;
+
+2) Remitir al tribunal que esté conociendo del Procedimiento Concursal de Liquidación copias autorizadas del expediente, para que continúe la sustanciación respecto del Deudor, y
+
+3) Conservar para sí el expediente original a fin de continuar la ejecución de los restantes demandados.
+
+##### Artículo 147.- Juicios iniciados por el Deudor. {-}
+
+Las demandas que se hubieren interpuesto por el Deudor antes de la Resolución de Liquidación, para controvertir la validez, legitimidad o procedencia de los créditos justificativos de la Liquidación Forzosa deberán acumularse al Procedimiento Concursal de Liquidación.
+
+Si en tales juicios las alegaciones del Deudor fueren similares a las de su oposición, planteada de conformidad al Artículo 121, el tribunal que esté conociendo del Procedimiento Concursal de Liquidación deberá resolver ambas controversias en un mismo fallo. En lo meramente procesal, prevalecerán las disposiciones propias del juicio de oposición.
+
+##### Artículo 148.- Principio general de las medidas cautelares. {-}
+
+Los embargos y medidas precautorias decretadas en los juicios sustanciados contra el Deudor y que afecten a bienes que deban realizarse o ingresar al Procedimiento Concursal de Liquidación, quedarán sin efecto desde que se dicte la Resolución de Liquidación.
+En caso de acumulación, sólo el Liquidador podrá solicitar el alzamiento respectivo ante el tribunal que lo decretó o ante el tribunal que esté conociendo del Procedimiento Concursal de Liquidación. El tribunal correspondiente decretará el alzamiento sin más trámite, con el sólo mérito de la dictación ya indicada.
+
+##### Artículo 149.- Medidas cautelares en sede criminal. {-}
+
+Aquellas medidas cautelares concedidas con ocasión de acciones de naturaleza criminal provenientes de los ilícitos contemplados en el Título IX del Libro Segundo del Código Penal, que afecten a bienes del Deudor para responder o garantizar el pago de futuras indemnizaciones civiles, multas o cualquier otra condena en dinero, quedarán sin efecto tan pronto el Liquidador comunique por escrito al Juzgado de Garantía que corresponda que se ha pronunciado la Resolución de Liquidación, adjuntando los documentos que sirvan para acreditarla. Este tribunal entregará los bienes al Liquidador para su administración y proseguirá la tramitación de los respectivos procedimientos, en los cuales el Liquidador actuará como coadyuvante cuando se trate de delitos concursales.
+
+Las multas e indemnizaciones pecuniarias que eventualmente se concedan, cualquiera sea su especie, deberán verificarse en el Procedimiento Concursal de Liquidación conforme a las reglas generales.
+
+##### Artículo 150.- De la Reivindicación. {-}
+
+Fuera de los casos mencionados en los Artículos siguientes, podrán entablarse las acciones reivindicatorias que procedan, en conformidad a las reglas generales.
+
+Las tercerías de dominio que estuvieren iniciadas a la fecha de dictación de la Resolución de Liquidación continuarán tramitándose en conformidad al procedimiento que corresponda.
+
+##### Artículo 151.- Reivindicación de efectos de comercio. {-}
+
+Podrán ser reivindicados los efectos de comercio y cualquier otro documento de crédito no pagado y existente a la fecha de dictación de la Resolución de Liquidación, en poder del Deudor o de un tercero que los conserve a nombre de éste, y siempre que el propietario los haya entregado o remitido al Deudor por un Título no traslaticio de dominio.
+
+##### Artículo 152.- Reivindicación de mercaderías. {-}
+
+Podrán ser también reivindicadas, en todo o en parte y mientras puedan ser identificadas, las mercaderías consignadas al Deudor a Título de depósito, comisión de venta o a cualquier otro que no transfiera el dominio.
+
+Vendidas las mercaderías, el propietario de ellas podrá reivindicar el precio o la parte del precio que no hubiere sido pagado o compensado entre el Deudor y el comprador a la fecha de la Resolución de Liquidación.
+
+No se entiende pagado el precio por la simple dación de documentos de crédito, firmados o transferidos por el comprador a favor del Deudor. Si existieren tales documentos en poder de éste, el propietario podrá reivindicarlos, siempre que acredite su origen e identidad.
+
+##### Artículo 153.- Derecho legal de retención del Deudor. {-}
+
+Lo dispuesto en los Artículos 151 y 152 precedentes no obsta al derecho legal de retención o al de prenda que corresponda al Deudor.
+
+##### Artículo 154.- Resolución de la compraventa. {-}
+
+El contrato de compraventa podrá resolverse por incumplimiento de las obligaciones del Deudor comprador, salvo cuando se trate de cosas muebles que hayan llegado a poder de éste.
+
+##### Artículo 155.- Definición de mercadería en tránsito. {-}
+
+Para los efectos de lo dispuesto en los Artículos siguientes, se entiende que las cosas muebles están en tránsito desde el momento en que las reciben los agentes encargados de su conducción, hasta que queden en poder del comprador Deudor o de la persona que lo represente.
+
+##### Artículo 156.- Facultades del vendedor respecto de las mercaderías en tránsito. {-}
+
+Mientras estén en tránsito las cosas muebles vendidas y remitidas al Deudor, el vendedor no pagado podrá dejar sin efecto la tradición, recuperar la posesión y pedir la resolución de la compraventa.
+
+El vendedor podrá también retener las cosas vendidas hasta el entero pago de su crédito.
+
+##### Artículo 157.- Mercaderías en tránsito vendidas a un tercero. {-}
+
+En caso que las cosas a que se refiere el Artículo anterior hayan sido vendidas durante su tránsito a un tercero de buena fe, a quien se hubiere transferido la factura, conocimiento o carta de porte, el vendedor no podrá ejercer las acciones que le confiere dicho Artículo.
+
+Pero si el nuevo comprador no hubiere pagado el precio antes de la Resolución de Liquidación, el vendedor primitivo podrá demandar su entrega hasta la concurrencia de la cantidad que se le deba.
+
+##### Artículo 158.- Efecto de la resolución de la compraventa. {-}
+
+En caso de resolución de la compraventa, el vendedor estará obligado a reembolsar a la masa los abonos a cuenta que hubiere recibido.
+
+##### Artículo 159.- Comisión por cuenta propia. {-}
+
+El comisionista que ha pagado o se ha obligado a pagar con sus propios fondos las mercaderías compradas y remitidas por orden y cuenta del Deudor, podrá ejercitar las mismas acciones concedidas al vendedor por e Artículo 156.
+
+##### Artículo 160.- Procedencia del derecho legal de retención. {-}
+
+Fuera de los casos expresamente señalados por las leyes, el derecho legal de retención tendrá lugar siempre que la persona que ha pagado o que se ha obligado a pagar por el Deudor tenga en su poder mercaderías o valores de crédito que pertenezcan a éste, con tal que la tenencia nazca de un hecho voluntario del Deudor, anterior al pago o a la obligación, y que esos bienes no hayan sido remitidos con un destino determinado.
+
+##### Artículo 161.- Oposición del Liquidador a la resolución o retención. {-}
+
+En los casos a que se refieren los Artículos precedentes, el Liquidador podrá oponerse a la resolución o retención y exigir la entrega de las cosas vendidas o retenidas, pagando la deuda, intereses, costas y perjuicios, o dando caución que asegure el pago.
+
+##### Artículo 162.- Razón social del Deudor sujeto a un Procedimiento Concursal de Liquidación. {-}
+
+El nombre o razón social del Deudor sujeto a un Procedimiento Concursal de Liquidación será complementado con la frase final “en Procedimiento Concursal de Liquidación”, y su uso deberá ser precedido por la firma del Liquidador y demás habilitados. En caso contrario, serán solidariamente responsables tanto el Liquidador como los que hubieren ejecutado el acto o celebrado el contrato respectivo.
+
+#### Párrafo 5. De la incautación e inventario de bienes {-}
+
+##### Artículo 163.- Procedimiento. {-}
+
+Una vez que haya asumido oficialmente el cargo y en presencia del secretario u otro ministro de fe designado por el tribunal competente, el Liquidador deberá:
+
+1) Adoptar de inmediato las medidas conservativas necesarias para proteger y custodiar los bienes del Deudor, si estima que peligran o corren riesgos donde se encuentran.
+
+2) Practicar la diligencia de incautación y confección del inventario de los bienes del Deudor.
+
+##### Artículo 164.- Del acta de incautación. {-}
+
+De las diligencias de incautación se levantará un acta que deberá incluir, al menos, las siguientes menciones:
+
+1) La singularización de cada uno de los domicilios, sucursales o sedes del Deudor en que se hubieren practicado.
+
+2) El día, la hora y el nombre de los asistentes a las diligencias practicadas.
+
+3) La circunstancia de haber sido necesario o no el auxilio de la fuerza pública.
+
+4) La constancia de todo derecho o pretensión formulados por terceros en relación con los bienes del Deudor.
+
+5) El inventario de bienes señalado en el Artículo 165.
+
+6) El nombre y la firma del Liquidador y del ministro de fe que estuvo presente en la incautación e inventario de bienes.
+
+Si aparecieren nuevos bienes por inventariar, se aplicará en lo pertinente lo dispuesto en este Artículo.
+
+##### Artículo 165.- Del inventario. {-}
+
+El inventario de los bienes del Deudor que el Liquidador confeccione deberá incluir, al menos, las siguientes menciones:
+
+1) Un registro e indicación de los libros, correspondencia y documentos del Deudor, si los hubiere.
+
+2) La individualización de los bienes del Deudor, dejando especial constancia acerca del estado de conservación de las maquinarias, útiles y equipos.
+
+3) La identificación de los bienes respecto de los cuales el Liquidador constate la existencia de contratos de arrendamiento con opción de compra, y de todos aquellos que se encuentren en poder del Deudor en una calidad distinta a la de dueño.
+
+##### Artículo 166.- Publicidad del acta de incautación e inventario. {-}
+
+El Liquidador deberá agregar el acta de incautación e inventario al expediente y publicarla en el Boletín Concursal a más tardar al quinto día contado desde la última diligencia practicada. Igual regla se aplicará a las incautaciones posteriores y a las que excluyan bienes del inventario.
+
+##### Artículo 167.- Asesoría técnica al Liquidador. {-}
+
+El Liquidador podrá practicar la diligencia de incautación y confección de inventario asesorado por un especialista en el giro del Deudor, cuyos honorarios serán considerados gastos de administración del Procedimiento Concursal de Liquidación. Asimismo, el Liquidador deberá dejar constancia en el acta de la idoneidad técnica del asesor, reseñándose los antecedentes que sirvan para acreditarla.
+
+En todo caso, corresponderá a la Junta de Acreedores inmediatamente posterior aprobar o rechazar en definitiva dicho gasto.
+
+##### Artículo 168.- Asesoría general al Liquidador. {-}
+
+En las diligencias de incautación e inventario también podrán acompañar al Liquidador sus dependientes o asesores de confianza, cuyos honorarios serán exclusivamente de cargo del Liquidador.
+
+##### Artículo 169.- Deber de colaboración del Deudor. {-}
+
+El Deudor deberá indicar y poner a disposición del Liquidador todos sus bienes y antecedentes. En caso que el Deudor se negare o no pudiere dar cumplimiento a lo anterior, el deber recaerá en cualquiera de sus administradores, si los hubiera.
+
+Sin perjuicio de lo anterior, el Liquidador podrá solicitar el auxilio de la fuerza pública en caso de oposición del Deudor o de sus administradores, para lo cual bastará la exhibición de copia autorizada de la Resolución de Liquidación al jefe de turno de la respectiva unidad de Carabineros de Chile.
+
+#### Párrafo 6. De la determinación del pasivo {-}
+
+##### Artículo 170.- Verificación ordinaria de créditos. {-}
+
+Los acreedores tendrán un plazo de treinta días contado desde la notificación de la Resolución de Liquidación para verificar sus créditos y alegar su preferencia ante el tribunal que conoce del procedimiento, acompañando los Títulos justificativos del crédito e indicando una dirección válida de correo electrónico para recibir las notificaciones que fueren pertinentes.
+
+Vencido el plazo señalado en el inciso anterior, dentro de los dos días siguientes, el Liquidador publicará en el Boletín Concursal todas las verificaciones presentadas.
+
+##### Artículo 171.- Acreedores prestadores de Servicios de Utilidad Pública. {-}
+
+Lo preceptuado en el Artículo precedente también será aplicable a los acreedores que presten Servicios de Utilidad Pública, quienes deberán verificar los créditos correspondientes a suministros anteriores a la Resolución de Liquidación y no podrán, con posterioridad a ella, suspender tales servicios, salvo autorización del tribunal, previa audiencia del Liquidador.
+
+Los créditos correspondientes a Servicios de Utilidad Pública que se suministren con posterioridad a la notificación de la Resolución de Liquidación se considerarán incluidos en el número 4 del Artículo 2472 del Código Civil. La suspensión del servicio en contravención a lo dispuesto en el inciso primero de este Artículo, se sancionará sumariamente por el tribunal con multa de 1 a 200 unidades tributarias mensuales, debiendo restablecerse su suministro tan pronto el tribunal lo ordene.
+
+Si a la fecha de la dictación de la Resolución de Liquidación los suministros se encontraren suspendidos, el Liquidador podrá solicitar al tribunal que ordene su inmediata reposición, solicitud que se deberá resolver a más tardar al día siguiente, sin necesidad de oír al prestador del servicio.
+
+Los créditos que nazcan como resultado del ejercicio de esta facultad, se considerarán incluidos en el número 4 del Artículo 2472 del Código Civil. El costo de reposición será de cargo del respectivo prestador del servicio.
+
+##### Artículo 172.- Término del período de verificación ordinaria de créditos. {-}
+
+Vencido el plazo de treinta días indicado en el Artículo 170 se entenderá de pleno derecho cerrado el período ordinario de verificación de créditos, sin necesidad de resolución ni notificación alguna. Sin perjuicio de lo anterior, dentro de los dos días siguientes de vencido el plazo señalado, el Liquidador publicará este cierre en el Boletín Concursal, junto con el listado de todos los créditos verificados con sus montos y preferencias alegadas.
+
+##### Artículo 173.- Estudio de créditos y preferencias. {-}
+
+En cumplimiento de sus deberes legales, el Liquidador examinará todos los créditos que se verifiquen y las preferencias que se aleguen, investigando su origen, cuantía y legitimidad por todos los medios a su alcance, especialmente aquellos verificados por las Personas Relacionadas del Deudor. Si no encontrare justificado algún crédito o preferencia, deberá deducir la objeción que corresponda, de conformidad a las disposiciones del Artículo 174.
+
+##### Artículo 174.- Objeción de créditos. {-}
+
+Los acreedores, el Liquidador y el Deudor tendrán un plazo de diez días contado desde el vencimiento del período ordinario de verificación para deducir objeción fundada sobre la existencia, montos o preferencias de los créditos que se hayan presentado a verificación.
+Las objeciones señaladas anteriormente se presentarán ante el tribunal que conoce del procedimiento. Expirado el plazo de diez días que se indica en el inciso anterior sin que se formulen objeciones, los créditos no objetados quedarán reconocidos. Asimismo, vencido dicho plazo, y dentro de los tres días siguientes, el Liquidador publicará en el Boletín Concursal todas las objeciones presentadas, confeccionará la nómina de los créditos reconocidos, la acompañará al expediente y la publicará en el Boletín Concursal.
+
+##### Artículo 175.- Impugnación de créditos.  {-}
+
+Si se formulan objeciones, el Liquidador arbitrará las medidas necesarias para que se obtenga el debido ajuste entre los acreedores o entre éstos y el Deudor, y se subsanen las objeciones. Si no se subsanan las objeciones deducidas, los créditos objeto de dichas objeciones se considerarán impugnados y el Liquidador los acumulará y emitirá un informe acerca de si existen o no fundamentos plausibles para ser considerados por el tribunal.
+
+El Liquidador acompañará la nómina de créditos impugnados conjuntamente con su informe al tribunal y la publicará en el Boletín Concursal, dentro de los diez días siguientes a la expiración del plazo previsto para objetar señalado en el inciso primero del Artículo anterior.
+
+Agregada al expediente la nómina de créditos impugnados con el informe del Liquidador, el tribunal citará a una audiencia única y verbal para el fallo de las respectivas impugnaciones, dentro de décimo día contado desde la notificación de la resolución que tiene por acompañada la nómina de créditos impugnados. A dicha audiencia podrán concurrir los impugnantes, el Deudor, el Liquidador y los acreedores impugnados en su caso. El tribunal competente podrá, por una sola vez, suspender y continuar la referida audiencia con posterioridad.
+
+La resolución que falle las impugnaciones ordenará la incorporación o modificación de los créditos en la nómina de créditos reconocidos, cuando corresponda. La referida nómina de créditos reconocidos modificada deberá publicarse en el Boletín Concursal dentro los dos días siguientes a la fecha en que se dicte la resolución señalada.
+
+##### Artículo 176.- De las costas.  {-}
+
+El impugnante vencido será condenado en costas a beneficio del acreedor impugnado, a menos que el tribunal considere que ha tenido motivos plausibles para litigar. Las costas que se determinen serán equivalentes al diez por ciento del crédito impugnado y no podrán exceder de 500 unidades de fomento.
+
+Lo anterior no será procedente en caso que el impugnante sea el Liquidador.
+
+##### Artículo 177.- De la apelación. {-}
+
+La resolución que se pronuncie sobre las impugnaciones será apelable en el sólo efecto devolutivo, gozando de preferencia para su inclusión a la tabla y para su vista y fallo.
+
+##### Artículo 178.- Deber del Liquidador en los procesos de verificación e impugnación. {-}
+
+El Liquidador deberá perseguir judicialmente el pago de las costas y multas a beneficio de la masa, pudiendo, al efecto, descontarlas administrativamente de cualquier reparto que deba practicar al acreedor obligado a su pago.
+
+##### Artículo 179.- De la verificación extraordinaria de créditos. {-}
+
+Los acreedores que no hayan verificado sus créditos en el período ordinario, podrán hacerlo mientras no esté firme y ejecutoriada la Cuenta Final de Administración del Liquidador, para ser considerados sólo en los repartos futuros, y deberán aceptar todo lo obrado con anterioridad.
+
+Los créditos verificados extraordinariamente podrán ser objetados o impugnados en conformidad al procedimiento establecido en los Artículos 174 y 175, dentro del plazo de diez días contado desde la notificación de su verificación en el Boletín Concursal.
+
+#### Párrafo 7. De las Juntas de Acreedores en los Procedimientos Concursales de Liquidación {-}
+
+##### Artículo 180.- De las Juntas de Acreedores. {-}
+
+Los acreedores adoptarán los acuerdos en Juntas de Acreedores celebradas de conformidad a las disposiciones del presente Párrafo, las que se denominarán, según corresponda, Junta Constitutiva, Juntas Ordinarias y Juntas Extraordinarias.
+
+##### Artículo 181.- Del quórum para sesionar. {-}
+
+Toda Junta de Acreedores se entenderá constituida legalmente para sesionar si cuenta con la concurrencia de uno o más acreedores que representen al menos el 25% del pasivo con derecho a voto, a menos que esta ley señale expresamente un quórum de constitución distinto. Los acuerdos se adoptarán con Quórum Simple, salvo que esta ley establezca un quórum diferente.
+
+##### Artículo 182.- Asistencia y derecho a voz. {-}
+
+Las Juntas de Acreedores serán públicas y el Liquidador podrá disponer que, por razones de seguridad y previa autorización judicial, se celebren sesiones con presencia limitada de público general.
+
+Tendrán derecho a voz:
+
+1) Todos los acreedores que hayan verificado sus créditos, tengan o no derecho a voto.
+
+2) El Liquidador.
+
+3) El Deudor.
+
+4) El Superintendente de Insolvencia y Emprendimiento, o quien éste designe.
+
+##### Artículo 183.- Nómina de asistencia. {-}
+
+Los acreedores que asistan a las Juntas de Acreedores que se celebren con arreglo a este Párrafo deberán suscribir la correspondiente nómina de asistencia que al efecto proporcione el Liquidador, indicando su nombre completo o razón social y la individualización del apoderado que asiste en su representación, en su caso. Igual deber pesará sobre el Deudor.
+
+##### Artículo 184.- Del acta y su publicación. {-}
+
+De todo lo obrado en la Junta de Acreedores, incluyendo acuerdos adoptados y propuestas desestimadas, se levantará un acta, la que deberá ser suscrita por el Liquidador, el Deudor si lo estimare y los acreedores que para ello se designen en la misma Junta de Acreedores. Dicha acta será publicada al día siguiente por el Liquidador en el Boletín Concursal.
+
+##### Artículo 185.- Certificado de no celebración de la Junta de Acreedores. {-}
+
+En caso que no se celebrare una Junta de Acreedores por falta de quórum, el Liquidador certificará dicha circunstancia y deberá publicar el correspondiente certificado en el Boletín Concursal al día siguiente de aquel en que la Junta debió celebrarse.
+
+##### Artículo 186.- Suspensión y reanudación de Juntas de Acreedores. {-}
+
+En caso que durante cualquier Junta de Acreedores no se adoptasen uno o más acuerdos en razón de las abstenciones de los acreedores presentes con derecho a voto, el Liquidador podrá, a su sólo arbitrio, suspender la Junta de Acreedores una vez tratadas y votadas las respectivas materias, a efectos de lograr los quórum legales para adoptar tales propuestas.
+La Junta suspendida se reanudará al segundo día en el mismo lugar y hora, pudiendo en todo caso fijarse otro distinto por Quórum Simple. En caso que el Liquidador haga uso de esta facultad se observarán las reglas que siguen:
+
+1) Los acreedores se entenderán legalmente notificados de la fecha, hora, lugar y materias de la Junta que se reanudará, por el sólo ejercicio de la facultad prevista en este Artículo.
+
+2) Se levantará acta de lo obrado hasta el momento de la suspensión, según lo previsto en el Artículo 184, dejándose constancia del ejercicio de la facultad de suspensión por parte del Liquidador, así como del porcentaje de votación favorable que hubieren alcanzado el o los acuerdos no adoptados en razón de las abstenciones de los acreedores presentes.
+
+3) Los acuerdos que se hubieren adoptado antes de la suspensión no podrán ser modificados o alterados en la Junta de Acreedores reanudada y deberán ejecutarse conforme a las reglas generales, salvo que los mismos acreedores y por las mismas acreencias que concurrieron con su voto consientan en modificarlo o dejarlo sin efecto.
+
+4) En la Junta de Acreedores reanudada se presumirá de derecho la mantención del quórum de asistencia existente al momento de la suspensión.
+
+5) Si los acreedores que se abstuvieron de votar un determinado acuerdo antes de la suspensión de la Junta de Acreedores no asistieren a la reanudación de la misma o si, asistiendo, se abstuvieren nuevamente de votar, se adicionará de pleno derecho su voto a la mayoría obtenida para ese acuerdo, consignada en el acta a que se refiere el número 2) precedente.
+
+6) Se levantará una nueva acta de lo tratado en la Junta de Acreedores reanudada, la que deberá ser suscrita por el Liquidador y los acreedores asistentes, y se estará a lo dispuesto en el Artículo 184.
+
+##### Artículo 187.- Mandato para asistir a Juntas de Acreedores. {-}
+
+La asistencia de los acreedores y del Deudor a las Juntas de Acreedores que se celebren podrá ser personal o a través de mandatario. A las Juntas de Acreedores que se celebren ante el tribunal, los acreedores deberán comparecer debidamente representados conforme a lo dispuesto en los Artículos 6° y 7° del Código de Procedimiento Civil.
+
+El mandato deberá constar en instrumento público o privado y, en este último caso, la firma del mandante deberá ser autorizada por el secretario del tribunal competente o por un ministro de fe.
+
+Se entenderá que el mandatario tiene idénticas facultades que las de su mandante y se tendrá por no escrita cualquier limitación que hubiere podido establecerse en el mandato. El mandatario podrá votar todos los acuerdos que sean presentados en cada una de las Juntas de Acreedores que se celebren.
+
+Se prohíbe otorgar mandato para asistir a Juntas de Acreedores a más de una persona, salvo para el caso de su reemplazo, pero un mismo mandatario puede serlo de uno o más acreedores.
+
+##### Artículo 188.- Prohibición de fraccionar los créditos. {-}
+
+Se prohíbe fraccionar los créditos después de dictada la Resolución de Liquidación y conferir mandato por una parte o fracción de un crédito. El contraventor y los que representen las porciones del crédito perderán el derecho a asistir a las Juntas de Acreedores. Todos los que hagan valer porciones de un crédito fraccionado dentro de los treinta días anteriores al pronunciamiento de la Resolución de Liquidación se contarán como una sola persona y emitirán un solo voto, procediéndose en la forma establecida en el inciso final de este Artículo.
+
+Las disposiciones precedentes no serán aplicables al crédito dividido como consecuencia de la liquidación de una sociedad, o de la partición de una comunidad que no esté exclusivamente formada por dicho crédito.
+
+El crédito perteneciente a una comunidad será representado sólo por uno de los comuneros. Si no se acuerda la designación del representante, cualquiera de ellos podrá solicitar tal designación al tribunal.
+
+##### Artículo 189.- Del derecho a voto. {-}
+
+Tendrán derecho a voto aquellos acreedores cuyos créditos estén reconocidos y aquellos a los que se les haya concedido el derecho a votar de conformidad al procedimiento dispuesto en el Artículo siguiente, aunque sus créditos no estén reconocidos, hayan sido o no objetados o impugnados.
+
+##### Artículo 190.- Audiencia de determinación del derecho a voto. {-}
+
+Corresponderá al tribunal determinar el derecho a voto respecto de los acreedores indicados en el Artículo anterior cuyos créditos no estén reconocidos, debiendo sujetar su decisión a las reglas siguientes:
+
+1) Deberá celebrarse una audiencia el día inmediatamente anterior a la Junta de Acreedores, ante el tribunal y en presencia del secretario, a la que asistirán el Liquidador, el Deudor y los acreedores, estos dos últimos, si lo estiman pertinente.
+
+2) La audiencia se celebrará a las 15:00 horas, horario que podrá ser modificado por el tribunal, de oficio o a petición de parte.
+
+3) La audiencia comenzará con la entrega de un informe escrito del Liquidador al tribunal acerca de la verosimilitud de la existencia y monto reclamado de los créditos no reconocidos. El informe se deberá referir especialmente a aquellos créditos que estén en alguna de las circunstancias previstas en el Artículo 188. El Informe incluirá todos los créditos no reconocidos que se hubieren verificado hasta el día inmediatamente anterior a dicha audiencia.
+
+Del contenido del referido informe, el Liquidador será responsable de acuerdo a lo señalado en el Artículo 35.
+
+4) A continuación, el tribunal oirá a aquellos acreedores que soliciten verbalmente argumentar la inclusión o conservación de su propio crédito en el informe o bien la exclusión de otros. No se admitirán presentaciones escritas para sustentar dichos argumentos.
+
+5) Acto seguido, el tribunal resolverá en única instancia, con los antecedentes disponibles en dicha audiencia, los que apreciará de acuerdo a las normas de la sana crítica, dejando constancia en el acta respectiva. Contra la resolución del tribunal sólo procederá el recurso de reposición, que deberá ser interpuesto y resuelto en la misma audiencia.
+
+6) El acta indicará los acreedores y el monto concreto que gozará de derecho a voto en la Junta a celebrar.
+
+7) El reconocimiento de derecho a voto sólo producirá efectos para la Junta de Acreedores en referencia y en nada limitará la libertad del Liquidador y de los acreedores para objetar o impugnar el crédito y sus preferencias de acuerdo a esta ley, ni la del tribunal para resolver la impugnación.
+
+8) El Liquidador deberá asistir personalmente a las audiencias de determinación del derecho a voto previas a la Junta Constitutiva y a la primera Junta Ordinaria de Acreedores, pudiendo asistir su apoderado judicial a las restantes.
+
+##### Artículo 191.- Excepción y limitación al ejercicio del derecho a voto. {-}
+
+Las Personas Relacionadas con el Deudor no gozarán de derecho a voto, ni tampoco se considerarán en el cálculo del respectivo quórum.
+
+El acreedor o su mandatario que tengan un conflicto de interés o un interés distinto del inherente a la calidad de acreedor del Deudor respecto de un determinado acuerdo deberán abstenerse de votar dicho acuerdo y tampoco se considerarán en el cálculo del respectivo quórum.
+
+##### Artículo 192.- Participación de créditos pagados. {-}
+
+Los acreedores no tendrán derecho a voto por los créditos que hubieren sido totalmente pagados a causa de un reparto, de un pago administrativo o por cualquier otra forma, incluso por un tercero. Si el pago del crédito hubiere sido parcial, el acreedor tendrá derecho a voto sólo por el saldo insoluto.
+
+##### Artículo 193.- De la Junta Constitutiva. {-}
+
+Es la primera Junta de Acreedores que se celebra una vez iniciado el Procedimiento Concursal de Liquidación. Tendrá lugar al trigésimo segundo día contado desde la publicación en el Boletín Concursal de la Resolución de Liquidación y se realizará en las dependencias del tribunal o en el lugar específico que éste designe, a la hora que la misma resolución fije.
+
+##### Artículo 194.- Segunda citación a la Junta Constitutiva. {-}
+
+En caso de no celebrarse la Junta Constitutiva por falta del quórum necesario para sesionar, ésta deberá efectuarse el segundo día, a la misma hora y en igual lugar. El secretario del tribunal deberá dejar constancia de esta situación en el acta que se levante y desde entonces los acreedores se entenderán legalmente notificados de esa segunda citación. La Junta así convocada se tendrá por constituida y se celebrará con los acreedores que asistan, adoptándose las decisiones con Quórum Simple de los presentes, sin perjuicio de las materias que exijan quórum distintos.
+
+##### Artículo 195.- Inasistencia de acreedores en segunda citación. {-}
+
+Si en la segunda citación no asiste ningún acreedor con derecho a voto, el secretario del tribunal certificará esta circunstancia, produciéndose los siguientes efectos, sin necesidad de declaración judicial:
+
+1) Los Liquidadores, titular y suplente provisionales, se entenderán ratificados de pleno derecho en sus cargos, asumiendo ambos la calidad de definitivos, sin perjuicio de la facultad prevista en el Artículo 200 de esta ley.
+
+2) El Liquidador publicará en el Boletín Concursal, dentro de tercero día contado desde aquel en que la Junta de Acreedores en segunda citación debió celebrarse, lo siguiente:
+
+a) Una referencia a la certificación practicada por el secretario del tribunal, indicada en el encabezamiento de este Artículo.
+
+b) La cuenta sobre el estado preciso de los negocios del Deudor, de su activo y pasivo y de la labor por él realizada.
+
+c) El lugar, día y hora en que se celebrarán las Juntas Ordinarias, que el mismo Liquidador fijará.
+
+3) El Liquidador dará inicio al procedimiento de liquidación simplificada o sumaria.
+
+##### Artículo 196.- Materias de la Junta Constitutiva. {-}
+
+La Junta Constitutiva tratará las siguientes materias:
+
+1) El Liquidador titular provisional deberá presentar una cuenta escrita, la que además expondrá verbal y circunstanciadamente, acerca del estado preciso de los negocios del Deudor, de su activo y pasivo, y de la gestión realizada, incluyendo un desglose de los gastos incurridos a la fecha. Asimismo, deberá informar si los activos del Deudor se encuentran en la situación prevista en la letra b) del Artículo 203.
+
+2) La ratificación de los Liquidadores titular y suplente provisionales, o bien, la designación de sus reemplazantes. Los Liquidadores que no hubieren sido ratificados continuarán en sus cargos hasta que asuman sus reemplazantes. Dentro de diez días contados desde la nueva designación deberá suscribirse entre el Liquidador no ratificado y el que lo remplace un acta de traspaso en que conste el estado preciso de los bienes del Deudor y cualquier otro aspecto relevante para una adecuada continuación del Procedimiento Concursal de Liquidación. En el mismo plazo deberán entregarse todos los antecedentes, documentos y otros instrumentos del Deudor que se encuentren en poder del Liquidador no ratificado. Una copia del acta antes indicada deberá ser remitida a la Superintendencia.
+
+3) La determinación del día, hora y lugar en que sesionarán las Juntas Ordinarias. Éstas deberán tener lugar al menos semestralmente.
+
+4) La designación de un presidente titular y uno suplente y un secretario titular y uno suplente, de entre los acreedores con derecho a voto o sus representantes, para las futuras sesiones.
+
+5) Un plan o propuesta circunstanciada de la realización de los bienes del Deudor, la estimación de los principales gastos del Procedimiento Concursal de Liquidación y la continuación de las actividades económicas, de conformidad a lo previsto en el Título 4 de este Capítulo, en los casos que proceda.
+
+6) Cualquier otro acuerdo que la Junta estime conducente, con excepción de aquellos que recaigan sobre materias propias de Juntas Extraordinarias.
+
+##### Artículo 197.- Formalidades de la Junta Constitutiva. {-}
+
+La Junta Constitutiva será presidida por el juez que esté conociendo del Procedimiento Concursal de Liquidación y actuará como ministro de fe el secretario del tribunal. De los puntos tratados, los acuerdos adoptados y demás materias que el tribunal estime pertinentes deberá dejarse constancia en un acta que será firmada por el juez, el secretario, el Liquidador, los acreedores que lo soliciten y el Deudor, si así lo decide. Una copia autorizada de dicha acta será agregada al expediente, publicada en el Boletín Concursal dentro del tercer día siguiente de levantada, e incorporada al libro de actas que llevará el Liquidador.
+
+##### Artículo 198.- De la Primera Junta Ordinaria. {-}
+
+Son materias obligatorias a tratar en la Primera Junta Ordinaria, si éstas no se hubieren acordado en la Junta Constitutiva, las siguientes:
+
+1) El informe acerca del activo y pasivo del Deudor, especialmente las variaciones que hubieren experimentado desde la Junta Constitutiva, que el Liquidador deberá presentar por escrito y explicar verbalmente;
+
+2) El plan o propuesta circunstanciada de realización de los bienes del Deudor, y
+
+3) La estimación de los principales gastos del Procedimiento Concursal de Liquidación.
+
+También podrá tratarse y acordarse, a proposición del Liquidador, del Deudor o de cualquier acreedor asistente con derecho a voto, la continuación de actividades económicas, de conformidad a lo previsto en el Título 4 de este Capítulo.
+
+Asimismo, los acreedores podrán acordar, con Quórum Especial, la no celebración de Juntas Ordinarias por un período determinado, o bien, su celebración por citación expresa del Liquidador o de acreedores que representen a lo menos el 25% del pasivo con derecho a voto. En estos casos, el Liquidador procederá de acuerdo al Artículo 48 y no será necesario otorgar el certificado a que se refiere el Artículo 185.
+
+##### Artículo 199.- Procedencia de la Junta Extraordinaria. {-}
+
+La Junta Extraordinaria tendrá lugar en los casos siguientes:
+
+a) Cuando fuere ordenada por el tribunal;
+
+b) A petición del Liquidador o de la Superintendencia;
+
+c) Cuando un acreedor o acreedores que representen a lo menos el 25% del pasivo con derecho a voto lo soliciten por escrito al Liquidador, quien ejecutará los actos necesarios para su celebración, y
+
+d) Cuando así lo hubieren acordado los acreedores en Junta Ordinaria con Quórum Simple.
+
+##### Artículo 200.- Materias de Juntas Extraordinarias. {-}
+
+Son materias de Juntas Extraordinarias las solicitadas por el o los peticionarios señalados en el Artículo anterior. Además, serán materias exclusivas de Juntas Extraordinarias las siguientes:
+
+1) La revocación de los Liquidadores titular y suplente definitivos.
+
+2) La presentación de proposiciones de Acuerdos de Reorganización Judicial en los términos del Capítulo III y del Párrafo 5 del Título 5 del Capítulo IV de esta ley.
+
+3) Los acuerdos sobre contrataciones especializadas previstas en el Artículo 41 de esta ley.
+
+4) Los anticipos de honorarios que solicite el Liquidador durante el Procedimiento Concursal de Liquidación, de acuerdo a lo establecido en el Artículo 39 de esta ley.
+
+##### Artículo 201.- Formalidades de la citación a Junta Extraordinaria. {-}
+
+El peticionario deberá requerir por escrito al Liquidador la citación a Junta Extraordinaria, acreditando el cumplimiento de los requisitos señalados en el Artículo 199. Si el peticionario es el juez o la Superintendencia, bastará cualquier medio idóneo de comunicación al Liquidador. En el requerimiento que se presente al Liquidador deberá precisarse las materias a tratar en la Junta Extraordinaria y en ésta sólo podrán discutirse y decidirse tales materias. En cuanto a la determinación de día, hora y lugar se seguirán las reglas siguientes:
+
+1) Si el requirente es el tribunal o la Superintendencia, se estará a la fecha que éstos fijen, debiendo el Liquidador disponer los medios que permitan su celebración.
+
+2) Si el requirente es uno o más acreedores que representen al menos el 25% del pasivo con derecho a voto, se estará a la fecha que de común acuerdo fijen con el Liquidador. En caso de desacuerdo, se estará a lo señalado por el o los requirentes.
+
+3) Si la decisión ha sido adoptada en Junta Ordinaria de Acreedores, el acuerdo deberá indicar la fecha de celebración de la Junta Extraordinaria, debiendo el Liquidador ajustarse a dicha decisión.
+
+El Liquidador deberá publicar la citación a la Junta Extraordinaria de Acreedores en el Boletín Concursal al día siguiente a la solicitud, adjuntando copia de la solicitud que se le haya presentado.
+
+La Junta deberá celebrarse transcurridos a lo menos tres días desde la publicación de la citación por el Liquidador en el Boletín Concursal.
+
+##### Artículo 202.- Comisión de acreedores. {-}
+
+La Junta de Acreedores podrá acordar, con Quórum Calificado, la constitución de una Comisión de Acreedores, para los efectos de adoptar los acuerdos que se comprendan dentro de la órbita de su competencia con validez general. Su composición, facultades, duración y procedimientos aplicables serán determinados por la propia Junta de Acreedores, con el mismo quórum anterior.
+
+### Título 2. De la realización simplificada o sumaria {-}
+
+#### Párrafo 1. Del ámbito de aplicación de la realización simplificada o sumaria {-}
+
+##### Artículo 203.- Ámbito de aplicación. {-}
+
+La realización simplificada o sumaria prevista en este Título se aplicará en los siguientes casos:
+
+a) Si el Deudor califica como micro empresa, de conformidad a lo dispuesto en el Artículo segundo de la ley N° 20.416, circunstancia que será acreditada por el Liquidador, para lo cual podrá requerir al Servicio de Impuestos Internos la información relativa al nivel de ventas del Deudor.
+
+b) Si el Liquidador informare a los acreedores en la Junta Constitutiva que el producto probable de la realización del activo a liquidar no excederá las 5.000 unidades de fomento. Si el Deudor o cualquier acreedor no estuviere de acuerdo con la estimación efectuada por el Liquidador, deberá formular verbalmente su oposición en la misma Junta Constitutiva. El tribunal, luego de escuchar a los interesados y al Liquidador, deberá resolver la controversia en la misma Junta. Contra la resolución que pronuncie no procederá recurso alguno.
+
+c) Si la Junta Constitutiva no se celebrare en segunda citación por falta de quórum.
+
+d) Si la Junta Constitutiva se celebrare en segunda citación con asistencia igual o inferior al 20% del pasivo total con derecho a voto.
+
+e) Si la Junta lo acuerda.
+
+f) Si fuere procedente la aplicación del Artículo 210 de esta ley.
+
+#### Párrafo 2. De la realización simplificada o sumaria propiamente tal {-}
+
+##### Artículo 204.- Reglas de realización de los bienes. {-}
+
+Los valores mobiliarios con presencia bursátil se venderán en remate en bolsa. Los demás bienes muebles e inmuebles se liquidarán mediante venta al martillo, conforme a las siguientes reglas:
+
+a) El Liquidador designará a un Martillero Concursal.
+
+b) Las bases y demás condiciones de venta serán confeccionadas por el Liquidador, presentadas al tribunal y publicadas en el Boletín Concursal. Los acreedores y el Deudor podrán, dentro de segundo día, objetar las bases. En tal caso, el tribunal citará a las partes a una única audiencia verbal, que se celebrará a más tardar al quinto día desde el vencimiento del plazo para objetar, con las partes que asistan. La citación a audiencia se notificará por el Estado Diario.
+
+El tribunal resolverá las objeciones deducidas en la audiencia y contra su resolución sólo podrá deducirse verbalmente reposición, la que deberá ser resuelta en la misma oportunidad.
+El costo de la redacción de las bases será del Liquidador, con cargo al honorario único que perciba en conformidad a lo dispuesto en el Artículo 40 de esta ley.
+
+c) Una vez resueltas las objeciones, las bases y las demás condiciones se publicarán en el Boletín Concursal, con a lo menos cinco días de anticipación a la fecha del remate y sin perjuicio de las restantes formas de publicidad que prevean las mismas bases.
+
+d) En el caso de bienes inmuebles, las bases deberán considerar el otorgamiento de una garantía de seriedad exigible a todo postor de, a lo menos, el 10% del mínimo por cada bien raíz a rematar. Dicha garantía subsistirá hasta que se otorgue la escritura definitiva de compraventa y se inscriba el dominio del comprador en el conservador de bienes raíces respectivo, libre de todos los gravámenes cuya cancelación y/o alzamiento se hubiese comprometido en las bases.
+
+e) El mínimo del remate de bienes inmuebles o de derechos sobre ellos corresponderá al fijado por la Junta Constitutiva de Acreedores o, en su defecto, al Avalúo Fiscal vigente al semestre en que ésta se efectúe, o a la proporción que corresponda según dicho avalúo, respectivamente. En caso que no se presentaren postores, se deberá efectuar un nuevo remate en un plazo máximo de veinte días, y el mínimo corresponderá al 50% del fijado originalmente. Si tampoco se presentaren postores en este segundo llamado, se deberá efectuar un nuevo remate en un plazo máximo de veinte días, sin mínimo.
+
+f) El mínimo del remate de bienes muebles corresponderá al fijado por la Junta Constitutiva de Acreedores o, en su defecto, se subastarán sin mínimo.
+
+g) El Martillero Concursal deberá rendir cuenta de su gestión en los términos del Artículo 216.
+
+h) Los bienes deberán venderse dentro de los cuatro meses siguientes a la fecha de celebración de la Junta Constitutiva o desde que ésta debió celebrarse en segunda citación. Tratándose de bienes incautados con posterioridad a aquélla, el término se contará desde el día de la diligencia de incautación.
+
+##### Artículo 205.- Deber de información y cumplimiento de plazos. {-}
+
+En el caso que no sea posible cumplir con los plazos de realización fijados en la letra h) del Artículo anterior, el Liquidador deberá informar dicha circunstancia a la Superintendencia con a lo menos quince días de anticipación al vencimiento, explicando las razones del retraso. Lo anterior no lo exime de perseverar en la venta de los bienes, debiendo justificar su demora cada treinta días. En caso que el retraso fuere imputable al Liquidador, la Superintendencia podrá hacer uso de sus potestades sancionadoras, de conformidad a esta ley.
+
+##### Artículo 206.- Acuerdos de la Junta Constitutiva sobre la realización sumaria. {-}
+
+Los acreedores podrán acordar, en la Junta Constitutiva y con Quórum Calificado, una fórmula de realización diferente a las señaladas en este Párrafo. Cualquiera sea la modalidad que se acuerde, ésta deberá ejecutarse dentro de los plazos indicados en la letra h) del Artículo 204.
+
+### Título 3. De la realización ordinaria de bienes {-}
+
+#### Párrafo 1. De las normas generales {-}
+
+##### Artículo 207.- Principio general de realización ordinaria. {-}
+
+La determinación de la forma de realización de los bienes del deudor, sus plazos, condiciones y demás características, corresponderá a la Junta de Acreedores.
+
+##### Artículo 208.- Fórmulas de realización ordinaria. {-}
+
+Los bienes del deudor podrán realizarse mediante:
+
+1) La venta al martillo de bienes muebles e inmuebles.
+
+2) La venta por medio de remate en bolsa de valores si se trata de valores mobiliarios con presencia bursátil.
+
+3) Otra forma distinta de realización de bienes, incluyendo entre ellas la venta como unidad económica establecida en el Artículo 217 y las ofertas de compra directa previstas en el Párrafo 4 de este Título.
+
+##### Artículo 209.- Plazos para la realización ordinaria. {-}
+
+Cualquiera sea la forma de realización de los activos, ésta deberá efectuarse en el menor tiempo posible, el que no podrá exceder de cuatro meses para los bienes muebles, y de siete para los inmuebles, ambos contados desde la fecha de celebración de la Junta Constitutiva o desde que ésta debió haberse celebrado en segunda citación.
+
+Con todo, los acreedores podrán acordar, con Quórum Calificado y antes del vencimiento de los plazos señalados, su extensión fundada hasta por cuatro meses más. Podrá procederse al otorgamiento de nuevas prórrogas, las que deberán acordarse con el mismo quórum indicado anteriormente y contar con la autorización fundada de la Superintendencia.
+
+La extensión del plazo podrá referirse a bienes específicos o, en general, a todos los bienes cuya realización esté pendiente.
+
+##### Artículo 210.- Silencio de los acreedores. {-}
+
+Los bienes cuya forma de enajenación no hubiere sido acordada por los acreedores dentro de los sesenta días contados desde la fecha de la Junta Constitutiva o desde la notificación del acta de incautación del activo correspondiente en caso que ésta se practicare con posterioridad, se enajenarán necesariamente de acuerdo a las reglas de la realización sumaria o simplificada. El Liquidador deberá dejar constancia de esta circunstancia en el expediente y, desde la fecha en que el tribunal lo tenga presente, se contará el plazo para enajenar previsto en la letra h) del Artículo 204.
+
+##### Artículo 211.- Deber de información del Liquidador y fiscalización de plazos. {-}
+
+Si el Liquidador estima que no se podrá dar cumplimiento a los plazos de realización establecidos en el Artículo 209 deberá comunicarlo a la Superintendencia, explicando las razones del retraso. Esta comunicación deberá efectuarse a lo menos quince días antes del vencimiento del plazo de realización ordinaria. El incumplimiento de este deber de información será considerado falta grave para los efectos del número 2) del Artículo 338.
+
+##### Artículo 212.- Regla especial para realizaciones impostergables. {-}
+
+El Liquidador podrá realizar en cualquier momento, al martillo o en venta directa, los bienes muebles del Deudor que considere que estén expuestos a próximo deterioro o desvalorización inminente o exijan una conservación dispendiosa. En la Junta inmediatamente posterior, el Liquidador deberá informar a los acreedores sobre los bienes realizados, su forma de enajenación y los recursos obtenidos de ella. Si no hubiere Juntas posteriores, cumplirá informando en tal sentido a la Superintendencia y consignándolo en las cuentas provisorias que deba rendir.
+
+#### Párrafo 2. De las ventas al martillo {-}
+
+##### Artículo 213.- Del Martillero Concursal. {-}
+
+Sin perjuicio de las disposiciones contenidas en la ley N° 18.118, sobre ejercicio de la actividad de martillero público, se entenderán como martilleros habilitados para rematar bienes de un Procedimiento Concursal sólo aquellos incluidos en una nómina que al efecto confeccionará y llevará la Superintendencia.
+
+Cualquier martillero que cumpla con los requisitos establecidos en el Artículo 14, en lo que les sean aplicables, y que se someta voluntariamente a las disposiciones de esta ley y a la fiscalización de la Superintendencia exclusivamente respecto de los Procedimientos Concursales en los que participe, podrá solicitar su inclusión en la Nómina de Martilleros Concursales.
+
+##### Artículo 214.- Adopción del acuerdo y formalidades básicas. {-}
+
+El acuerdo de venta al martillo podrá versar tanto sobre bienes muebles como inmuebles del Deudor. El acuerdo deberá designar al Martillero Concursal, elegido de una terna propuesta por el Liquidador y confeccionada sólo con aquellos Martilleros Concursales incluidos en la nómina llevada por la Superintendencia. Las demás condiciones de la venta deberán constar en las bases que proponga el Liquidador en la misma Junta, para la aprobación de los acreedores.
+
+Con a lo menos cinco días de anticipación a la fecha del remate, el Liquidador deberá publicar en el Boletín Concursal las bases aprobadas por la Junta de Acreedores, sin perjuicio de otros medios adicionales de publicidad que las mismas bases puedan consignar.
+
+##### Artículo 215.- Comisión del Martillero Concursal. {-}
+
+El Martillero Concursal percibirá una comisión única por el ejercicio de sus funciones, equivalente a un porcentaje sobre el monto total de realización de los bienes encargados rematar. Esta comisión será de cargo del adjudicatario.
+
+La comisión señalada no podrá exceder de un 2% sobre el monto total de realización de bienes inmuebles y de un 7% sobre el monto total de realización de bienes muebles.
+
+La Junta de Acreedores, con Quórum Calificado, podrá acordar aumentar la comisión correspondiente a un Martillero Concursal, en cuyo caso el aumento será de cargo del acreedor o acreedores que expresamente lo consientan. El señalado aumento de comisión deberá consignarse en el acuerdo de venta al martillo.
+
+Cualquier contravención a este Artículo será sancionada conforme al Artículo 27 de esta ley.
+
+A los Martilleros Concursales no les serán aplicables las comisiones reguladas en la ley N° 18.118.
+
+##### Artículo 216.- Rendición de cuenta. {-}
+
+Dentro del quinto día siguiente a la fecha del remate, el Martillero Concursal deberá rendir ante la Superintendencia una cuenta detallada y desglosada de los bienes rematados, así como de los ingresos, gastos y resultado final del remate o subasta, y publicarla en el Boletín Concursal. La Superintendencia podrá objetar u observar su contenido, conforme a lo previsto en el número 5) del Artículo 337.
+
+Asimismo, el Liquidador, el Deudor y los acreedores podrán objetar la cuenta presentada por los Martilleros Concursales, siendo aplicable lo dispuesto en los Artículos 49 y siguientes de esta ley en cuanto sea procedente.
+
+#### Párrafo 3. De la venta como unidad económica {-}
+
+##### Artículo 217.- Acuerdo. {-}
+
+La Junta de Acreedores podrá acordar vender un conjunto de bienes bajo la modalidad de venta como unidad económica. Esta modalidad se regirá por las siguientes reglas:
+
+1) El acuerdo deberá incluir los bienes sujetos a la venta, cualquiera sea su naturaleza. En el evento de que se enajenare un conjunto de bienes ubicados en un bien raíz que no sea de propiedad del Deudor, se incluirán en la venta los derechos que en dicho inmueble le correspondan, cualquiera sea el tenor de la convención o la naturaleza de los hechos en que se funda la posesión, uso o mera tenencia del inmueble.
+
+2) Asimismo, el acuerdo deberá señalar el precio mínimo de la venta del conjunto de bienes, forma de pago y garantías, sin perjuicio de las demás modalidades y condiciones de la enajenación que se puedan acordar.
+
+##### Artículo 218.- Efectos del acuerdo de venta como unidad económica. {-}
+
+Acordada la enajenación como unidad económica, se suspende el derecho de los acreedores hipotecarios, prendarios y retencionarios para iniciar o proseguir en forma separada las acciones dirigidas a obtener la realización de los bienes que garantizan sus respectivos créditos y que se encuentren comprendidos dentro de la unidad económica. La aprobación de las bases se entenderá como suficiente autorización para los efectos contemplados en los números 3 y 4 del Artículo 1464 del Código Civil.
+
+##### Artículo 219.- Determinación del monto de realización de los bienes hipotecados, prendados o retenidos. {-}
+
+Cuando en el conjunto de bienes hubiere activos afectos a hipoteca, prenda o retención, la Junta de Acreedores podrá acordar que se indique específicamente en las bases la parte del precio de venta de la unidad económica que corresponderá a cada activo en garantía, tanto respecto del precio mínimo como de un eventual sobreprecio en caso de remate, para el sólo efecto de que dichos acreedores puedan hacer valer los derechos que procedan de acuerdo a esta ley. La parte del precio asignada al bien gravado con hipoteca, prenda o retenido no podrá ser inferior al Avalúo Fiscal o a la valorización que efectúe el Liquidador del bien gravado con prenda, salvo aceptación expresa del acreedor hipotecario, prendario o retencionario.
+
+Los acreedores hipotecarios, prendarios o retencionarios que hubieren votado en contra de la valoración asignada por la Junta de Acreedores podrán solicitar al tribunal su rectificación, dentro de tercero día desde la adopción del respectivo acuerdo. En tal caso, el acreedor hipotecario, prendario o retencionario podrá acompañar siempre un informe pericial de tasación del respectivo bien, el cual tendrá presente el tribunal para la determinación final del valor.
+
+En virtud de lo anterior, el tribunal citará a una audiencia verbal, que se celebrará a más tardar al quinto día con las partes que asistan. La citación a audiencia se notificará por el Estado Diario. El tribunal resolverá las objeciones deducidas en la audiencia y contra esa resolución sólo podrá deducirse reposición verbal, la que deberá ser resuelta en la misma oportunidad.
+
+La tramitación de la rectificación solicitada no suspenderá la ejecución del acuerdo adoptado por la Junta de Acreedores.
+
+##### Artículo 220.- Calificación de la venta de los bienes como unidad económica. {-}
+
+La venta de los bienes como unidad económica no calificará como venta de establecimiento comercial.
+
+##### Artículo 221.- Trámites posteriores. {-}
+
+La venta como unidad económica deberá constar en escritura pública en la que se indicarán los hechos y/o requisitos que acrediten el cumplimiento de las disposiciones anteriores. Dicha escritura será aprobada por el tribunal, el cual ordenará el alzamiento y cancelación de todos los gravámenes y prohibiciones que pesen sobre los bienes que integran la unidad económica.
+
+Los bienes que integran la unidad económica se entenderán constituidos en hipoteca o prenda sin desplazamiento, según su naturaleza, por el sólo ministerio de la ley, para caucionar los saldos insolutos de precio y cualquiera otra obligación que el adquirente haya asumido como consecuencia de la adquisición, salvo que la Junta de Acreedores, al pronunciarse sobre las bases respectivas, hubiese excluido expresamente determinados bienes de tales gravámenes.
+
+#### Párrafo 4. De la oferta de compra directa {-}
+
+##### Artículo 222.- Deber de información del Liquidador. {-}
+
+Todas las ofertas de compra directa que se formulen deberán dirigirse por escrito al Liquidador, quien las expondrá a los acreedores en la Junta de Acreedores inmediatamente siguiente.
+
+##### Artículo 223.- Quórum y acuerdos. {-}
+
+La aceptación por parte de la Junta de Acreedores de una oferta de compra directa requerirá de Quórum Especial. Tratándose de ofertas cuya venta no se pudo perfeccionar por no haberse logrado acuerdo con el quórum exigido, la Junta podrá acordar, por Quórum Calificado y con el conocimiento del oferente, que los bienes incluidos en la oferta de compra directa sean previamente ofrecidos en remate al martillo a cualquier interesado.
+
+Las condiciones del remate deberán ser incluidas en las bases que se confeccionen y, en ellas, el precio mínimo de los bienes a rematar deberá ser igual al monto ofrecido por el oferente. Si no se presentaren postores en esa oportunidad, se llevará a cabo la venta propuesta por el oferente, en sus términos originales.
+
+#### Párrafo 5. Del leasing o arrendamiento con opción de compra {-}
+
+##### Artículo 224.- De la incautación. {-}
+
+Los bienes que el Deudor tenga en su poder en virtud de un contrato de arrendamiento con opción de compra deberán ser incautados por el Liquidador en la forma dispuesta en los ##### Artículos 163 y 164 de esta ley, debiendo dejar constancia en el acta que levante que se trata de bienes objeto de un contrato de arrendamiento con opción de compra.
+
+Los gastos que irroguen la conservación, custodia y/o bodegaje de dichos bienes deberán ser asumidos por la masa. En caso de desacuerdo en el monto correspondiente, resolverá incidentalmente el juez competente, sin ulterior recurso.
+
+##### Artículo 225.- Efecto de la Resolución de Liquidación en los contratos de arrendamiento con opción de compra. {-}
+
+La dictación de la Resolución de Liquidación no constituirá causal de terminación inmediata del contrato de arrendamiento con opción de compra.
+
+La Junta Constitutiva de Acreedores deberá pronunciarse y acordar al respecto alguna de las siguientes alternativas:
+
+1.- Continuar con el cumplimiento del contrato de arrendamiento con opción de compra, en los términos originalmente pactados.
+
+2.- Ejercer anticipadamente la opción de compra, en los términos establecidos en el respectivo contrato de arrendamiento con opción de compra.
+
+3.- Terminar anticipadamente el contrato de arrendamiento con opción de compra, restituyendo el bien.
+
+Para el caso en que no se celebrare la referida Junta, o ésta no se pronunciare al respecto, se entenderá que se opta por la alternativa regulada en el número 1 precedente.
+Se tendrá por no escrita cualquier cláusula pactada en el contrato de arrendamiento con opción de compra, en contrario a lo regulado en este Artículo.
+
+##### Artículo 226.- De la verificación. {-}
+
+El arrendador podrá verificar siempre en el Procedimiento Concursal de Liquidación del Deudor arrendatario aquellas cuotas devengadas e impagas hasta la fecha de la Resolución de Liquidación. Las cuotas que se devenguen con posterioridad a la Resolución de Liquidación y hasta la Junta Constitutiva serán siempre de cargo de la masa.
+
+Respecto de las obligaciones que nazcan en virtud del ejercicio de las opciones reguladas en el Artículo anterior, se estará a lo siguiente:
+
+a) Si la Junta Constitutiva de Acreedores acordare continuar con el contrato de arrendamiento con opción de compra vigente en los términos originalmente pactados, las rentas que se devenguen con posterioridad a la fecha de la Resolución de Liquidación serán de cargo de la masa, y se pagarán en los términos y condiciones originalmente estipulados en el referido contrato.
+
+b) Si la Junta Constitutiva de Acreedores acordare el ejercicio anticipado de la opción de compra en los términos originalmente pactados, su pago será de cargo de la masa. El Liquidador deberá efectuarlo dentro de los treinta días siguientes a la fecha en que se adoptó el acuerdo, prorrogables por igual período, previa autorización del tribunal.
+
+Si el pago no se hiciere efectivo dentro del plazo señalado, el acreedor arrendador podrá poner término al contrato de arrendamiento con opción de compra, debiendo el Liquidador restituir el bien al arrendador.
+
+c) Si la Junta Constitutiva de Acreedores acordare el término anticipado del contrato de arrendamiento con opción de compra, se deberá restituir al arrendador el bien objeto del referido contrato dentro de los 30 días siguientes a la fecha en que se adoptó el acuerdo, prorrogables por igual período, previa autorización del tribunal competente.
+
+Si el contrato incluyese multas, ellas podrán ser verificadas únicamente con el mérito de una sentencia definitiva firme o ejecutoriada que declare su procedencia y que conceda las cantidades reclamadas, procedimiento que se sustanciará mediante las reglas del juicio sumario.
+
+##### Artículo 227.- Realización de bienes sujetos a un contrato de arrendamiento con opción de compra. {-}
+
+Sin perjuicio de lo señalado anteriormente, la Junta Constitutiva de Acreedores, con Quórum Calificado, podrá acordar con el arrendador una fórmula de realización que incluya los bienes objeto del contrato de arrendamiento con opción de compra, en cuyo caso se estará a las estipulaciones pactadas, las que deberán constar en el acta respectiva, la cual incluirá el valor que se asigna a dichos bienes.
+
+La parte del crédito verificado con ocasión del contrato de arrendamiento con opción de compra que no alcance a ser cubierta con el producto de la realización del bien objeto del referido contrato, se considerará incobrable para todos los efectos legales a que hubiere lugar.
+
+#### Párrafo 6. De las reglas complementarias a la realización {-}
+
+##### Artículo 228.- Créditos morosos y activos muebles de difícil realización. {-}
+
+La Junta de Acreedores tendrá la facultad de vender, en la forma y al precio que estime convenientes, los créditos morosos y activos muebles de difícil realización, cumpliendo los requisitos que siguen:
+
+1) Acuerdo de la Junta de Acreedores, adoptado por Quórum Calificado;
+
+2) Que no se haya efectuado postura alguna respecto del bien, habiéndose ofertado al martillo y sin precio mínimo, o
+
+3) Si el Liquidador ha efectuado las gestiones para realizarlo al martillo y al menos tres Martilleros Concursales hayan rechazado el encargo ofrecido por el bajo monto esperado de realización.
+
+##### Artículo 229.- Decisión de no perseverar en la persecución de bienes. {-}
+
+La Junta de Acreedores podrá acordar, con Quórum Calificado, la no persecución de uno o más bienes determinados del Deudor, en atención a que el costo estimado para recuperarlos es superior al beneficio esperado de su realización. Asimismo, el Liquidador podrá hacer uso de esta facultad si no se hubiese adoptado el acuerdo respectivo en dos Juntas de Acreedores ordinarias consecutivas por falta de quórum de asistencia, siempre que dicho asunto haya estado incluido en la tabla de ambas sesiones.
+
+### Título 4. De la continuación de actividades económicas {-}
+
+##### Artículo 230.- Principio general. {-}
+
+Se podrán desarrollar actividades económicas con los activos del Deudor con sujeción a las normas de este Título.
+
+##### Artículo 231.- Tipos o clases. {-}
+
+La continuación de actividades económicas podrá ser:
+
+1) Provisional: aquella que es decidida por el Liquidador con miras a:
+
+a) Aumentar el porcentaje de recuperación por parte de los acreedores del Deudor;
+
+b) Facilitar la ejecución de prestaciones que se encontraren pendientes y de las cuales se derive un beneficio para la masa, y
+
+c) Propender a la realización de los activos del Deudor como unidad económica.
+
+El ejercicio de esta facultad sólo podrá tener lugar desde que el Liquidador asuma su cargo y se extenderá hasta la celebración de la Junta de Acreedores Constitutiva.
+
+2) Definitiva: aquella que es acordada con Quórum Especial por la Junta de Acreedores Constitutiva u otra posterior, y a proposición del Liquidador o de cualquier acreedor.
+
+##### Artículo 232.- Continuación provisional de actividades económicas. {-}
+
+La continuación provisional de actividades económicas del Deudor se regirá por las siguientes disposiciones:
+
+1) El Liquidador deberá informar al tribunal y a la Superintendencia las razones que justifiquen su decisión, los bienes adscritos a la continuación provisional y la fecha exacta de su inicio. Estas comunicaciones deberán efectuarse al día siguiente de aquél en que el Liquidador disponga la continuación.
+
+2) La administración de la continuación provisional de actividades económicas recaerá exclusivamente en el Liquidador, quien tendrá derecho a percibir un honorario adicional por esa gestión. El monto a percibir será determinado en la Junta de Acreedores Constitutiva y, en caso de desacuerdo, por el tribunal, en la misma Junta y sin ulterior recurso.
+
+3) En la Junta de Acreedores Constitutiva el Liquidador deberá presentar a los acreedores un informe pormenorizado acerca de todas las operaciones ejecutadas en el desarrollo de la continuación provisional de actividades económicas, conjuntamente con un detalle de los ingresos y egresos del período y un resumen sobre la situación tributaria de la continuación referida.
+
+Una vez recibido el informe del Liquidador la Junta de Acreedores podrá acordar la continuación definitiva de dichas actividades, en cuyo caso regirán las disposiciones del Artículo siguiente.
+
+##### Artículo 233.- Continuación definitiva de actividades económicas. {-}
+
+El acta de la Junta de Acreedores en que conste la continuación definitiva deberá contener, a lo menos, los siguientes puntos:
+
+1) Actividades específicas a continuar.
+
+2) Bienes adscritos. Si la continuación incluyese bienes hipotecados, prendados o sujetos al derecho legal de retención se suspenderá el derecho de los acreedores respectivos para ejercer sus acciones en tales bienes, siempre que hubieren votado a favor de dicha continuación.
+
+3) Identificación del administrador siempre que fuere distinto del Liquidador y sus facultades. El acuerdo de nombramiento del Liquidador requerirá de Quórum Especial.
+
+4) Honorarios totales o fórmula de cálculo correspondiente al plazo que se acuerde o resultados que se proyecten. Tratándose de pagos periódicos se aplicará al administrador el deber de retención previsto en el número 6) del Artículo 39 de esta ley.
+
+5) Plazo. No podrá ser superior a un año contado desde el acuerdo respectivo. Será prorrogable por una sola vez, con Quórum Especial, mediante acuerdo obtenido en Junta de Acreedores Ordinaria o Extraordinaria celebrada al menos diez días antes del vencimiento.
+
+En caso de prórroga, la Junta deberá designar un administrador de la continuación de las actividades económicas, nombramiento que no podrá recaer en el Liquidador.
+
+Si la Junta acordare la venta de los activos del Deudor como unidad económica, podrá también acordar, con Quórum Especial, proseguir la continuación por el tiempo indispensable para la concreción de ese acuerdo, aun cuando se exceda el plazo máximo ya indicado.
+
+##### Artículo 234.- Administración separada. {-}
+
+Si la administración de la continuación definitiva de actividades económicas recayere en una persona distinta del Liquidador, se observarán las disposiciones siguientes:
+
+1) Respecto de aquellos bienes no adscritos a dicha continuación, el Liquidador mantendrá su administración y procederá de conformidad a las reglas generales.
+
+2) Respecto de los bienes adscritos a dicha continuación, el Liquidador tendrá las facultades del Artículo 294 del Código de Procedimiento Civil, reportando a la Junta de Acreedores Ordinaria las circunstancias que considere oportunas para el resguardo de los intereses de los acreedores y el Deudor.
+
+3) Cualquier controversia que se suscite entre el administrador de la continuación definitiva de las actividades económicas y el Liquidador será resuelta por el tribunal en una audiencia verbal citada al efecto, para lo cual podrá solicitar informe a la Superintendencia.
+
+4) La Superintendencia tendrá sobre el administrador de la continuación definitiva de las actividades económicas iguales potestades que sobre los Liquidadores.
+
+##### Artículo 235.- Informe periódico. {-}
+
+El administrador deberá presentar en cada Junta un informe pormenorizado acerca de todas las actividades ejecutadas, y un detalle de los ingresos, egresos y utilidades o pérdidas del período.
+
+##### Artículo 236.- Identificación y responsabilidad. {-}
+
+Tratándose de continuaciones definitivas de actividades económicas, el nombre o razón social del Deudor será complementado con la frase final “en continuación de actividades económicas”, y su uso deberá ser precedido por la firma del administrador, en su caso, y de los demás habilitados. En caso contrario, serán solidariamente responsables de esas obligaciones tanto el administrador como los que hubieren ejecutado el acto o celebrado el contrato respectivo.
+
+##### Artículo 237.- Término anticipado. {-}
+
+La Junta, con Quórum Especial, podrá decidir el fin de la continuación definitiva de actividades económicas antes del término previsto, lo que será comunicado de inmediato al administrador.
+
+Los honorarios pactados podrán reducirse proporcionalmente, previo acuerdo de las partes, resolviendo el juez en caso contrario, sin ulterior recurso y en el menor tiempo posible.
+
+##### Artículo 238.- Responsabilidad del administrador. {-}
+
+La responsabilidad civil del administrador de la continuación de actividades económicas alcanzará hasta la culpa levísima y subsistirá hasta la aprobación de su cuenta definitiva de gestión. Dicha responsabilidad podrá perseguirse en juicio sumario una vez presentada la referida cuenta, conforme a lo dispuesto en los Artículos 49 y siguientes de esta ley, y sin perjuicio de la responsabilidad legal en que pudiere incurrir.
+
+No obstante lo anterior, si el administrador de la continuación de actividades económicas no rindiere su cuenta definitiva de gestión dentro del plazo de treinta días contado desde el término de dicha continuación, su responsabilidad civil también podrá perseguirse desde el vencimiento de dicho plazo.
+
+##### Artículo 239.- Créditos provenientes de la continuación de actividades económicas del Deudor. {-}
+
+Los créditos provenientes de la continuación de actividades económicas del Deudor podrán perseguirse solamente en los bienes comprendidos en ella y gozarán de la preferencia establecida en el número 4 del Artículo 2472 del Código Civil para el pago respecto de los demás acreedores del Deudor.
+
+Los créditos de la continuación de actividades económicas del Deudor preferirán a los de los acreedores hipotecarios, prendarios y retencionarios que hubieren dado su aprobación a dicha continuación, sólo en el caso que los bienes no gravados comprendidos en ella fueren insuficientes para el pago. La diferencia, si la hubiere, será soportada por los señalados acreedores a prorrata del monto de sus respectivos créditos en el Procedimiento Concursal de Liquidación y hasta la concurrencia del valor de liquidación de los bienes dados en garantía de sus respectivos créditos.
+
+El acreedor hipotecario, prendario o retencionario que pague más del porcentaje que le correspondiere de conformidad al inciso anterior, se subrogará por el exceso en los derechos de los acreedores de la continuación de actividades económicas, en conformidad a las normas del Párrafo 8 del Título XIV del Libro IV del Código Civil.
+
+En el evento que en la continuación de actividades económicas se obtengan excedentes, éstos corresponderán a los acreedores del Deudor hasta la concurrencia del monto de sus créditos, reajustes e intereses, que corresponda pagar en el Procedimiento Concursal de Liquidación, deducidos los gastos. El remanente, si lo hubiere, pertenecerá al Deudor.
+
+##### Artículo 240.- Cuenta Final de Administración. {-}
+
+Se aplicarán al administrador de la continuación definitiva de actividades económicas las disposiciones sobre Cuenta Final de Administración del Liquidador, sin entorpecer el Procedimiento Concursal de Liquidación ni la realización de los bienes del Deudor. Los honorarios que correspondan y la participación en las utilidades o el remanente retenido sólo podrán ser percibidos una vez que la referida cuenta se encuentre firme o ejecutoriada.
+
+### Título 5. Del pago del pasivo {-}
+
+#### Párrafo 1. De los principios generales {-}
+
+##### Artículo 241.- Orden de prelación. {-}
+
+Los acreedores serán pagados de conformidad a lo dispuesto en el Título XLI del Libro IV del Código Civil y, en el caso de los acreedores valistas, con pleno respeto a la subordinación de créditos establecida en la referida normativa. Para su eficacia, la subordinación deberá ser alegada al momento de la verificación del crédito por parte del acreedor beneficiario o bien notificarse al Liquidador, si se establece en una fecha posterior.
+
+Los créditos de la primera clase señalados en el Artículo 2472 del Código Civil preferirán a todo otro crédito con privilegio establecido por leyes especiales.
+
+Los acreedores Personas Relacionadas del Deudor, cuyos créditos no se encuentren debidamente documentados 90 días antes de la Resolución de Liquidación, serán pospuestos en el pago de sus créditos aun después de los acreedores valistas.
+
+##### Artículo 242.- Acreedores prendarios y retencionarios. {-}
+
+Los acreedores de la segunda clase y aquellos que gocen del derecho de retención judicialmente declarado podrán optar por ejecutar individualmente los bienes gravados, en cuyo caso deberán iniciar ante el tribunal que conoce del Procedimiento Concursal de Liquidación, los procedimientos que correspondan, o continuarlos en él previa acumulación, debiendo siempre asegurar los créditos de mejor derecho.
+
+El Liquidador podrá, si lo considera conveniente para la masa, exigir la entrega de la cosa dada en prenda o retenida, siempre que pague la deuda o deposite, a la orden del tribunal, su valor estimativo en dinero, sobre el cual se hará efectiva la preferencia.
+
+##### Artículo 243.- Acreedores hipotecarios. {-}
+
+Los acreedores hipotecarios se pagarán en la forma que determinan los Artículos 2477, 2478, 2479 y 2480 del Código Civil.
+
+#### Párrafo 2. De los pagos administrativos {-}
+
+##### Artículo 244.- Procedencia y tramitación. {-}
+
+Tan pronto existan fondos suficientes para ello y precaviendo que el activo remanente sea suficiente para asegurar los gastos del Procedimiento Concursal de Liquidación y el pago de los créditos de mejor derecho, podrán pagarse por el Liquidador los créditos contenidos en el Artículo 2472 del Código Civil, según las reglas que siguen:
+
+1) Los descritos en los números 1 y 4 podrán pagarse sin necesidad de verificación.
+
+2) Los incluidos en el número 5 podrán pagarse previa revisión y convicción del Liquidador sobre la suficiencia de los documentos que les sirven de fundamento, sin necesidad de verificación ni de acuerdo de Junta que apruebe el pago.
+
+3) Los establecidos en el número 8 se pagarán en los mismos términos del número precedente, hasta el límite del equivalente a un mes de remuneración por cada año de servicio y fracción superior a seis meses por indemnizaciones convencionales de origen laboral y por las indemnizaciones legales del mismo origen que sean consecuencia de la aplicación de la causal señalada en el Artículo 163 bis del Código del Trabajo.
+
+Las restantes indemnizaciones de origen laboral, así como la que sea consecuencia del reclamo del trabajador de conformidad al Artículo 168 del Código del Trabajo, se pagarán con el sólo mérito de la sentencia definitiva firme o ejecutoriada que así lo ordene.
+
+4) Con todo, podrán verificarse condicionalmente los créditos que gocen de las preferencias de los números 5 y 8, con el sólo mérito de la demanda interpuesta con anterioridad al inicio del Procedimiento Concursal de Liquidación o con la notificación al Liquidador de la demanda interpuesta con posterioridad al referido inicio.
+
+El Liquidador deberá reservar fondos suficientes para el evento que se acoja la demanda, sin perjuicio de los pagos administrativos que procedan, de conformidad a los números precedentes.
+
+##### Artículo 245.- Costas. {-}
+
+Para efectos de lo dispuesto en el Artículo anterior, el pago de las costas personales se sujetará a las disposiciones siguientes:
+
+1) En caso de Liquidación Forzosa, sólo procederán las correspondientes al acreedor peticionario, las que gozarán de la preferencia del número 1 del Artículo 2472 del Código Civil.
+
+2) En caso de Liquidación Voluntaria, las costas personales del solicitante gozarán de la preferencia establecida en el número 4 del Artículo 2472 del Código Civil.
+
+3) En ambos casos se aplicarán los siguientes límites al cálculo de costas:
+
+a) El 2% del crédito invocado, si éste no excede de 10.000 unidades de fomento, y
+
+b) El 1% en lo que exceda del valor señalado en la letra anterior.
+
+Para estos efectos, en casos de Liquidación Voluntaria, y siempre que el Deudor invocare más de un crédito, se estará a aquél en cuyo pago hubiere cesado en primer lugar. El saldo, si lo hubiere, se considerará valista.
+
+##### Artículo 246.- Renunciabilidad de créditos de origen laboral. {-}
+
+No podrán renunciarse los montos y preferencias de los créditos previstos en los números 5 y 8 del Artículo 2472 del Código Civil, salvo en la forma y casos que siguen:
+
+1) Mediante conciliación celebrada ante un Juzgado de Letras del Trabajo, la que podrá tener lugar en la audiencia preparatoria o de juicio y deberá contar con la expresa aprobación del juez, y
+
+2) En virtud de transacción judicial o extrajudicial que se celebre con posterioridad a la notificación de la sentencia definitiva de primera instancia del juicio laboral respectivo.
+
+#### Párrafo 3. De los repartos de fondos {-}
+
+##### Artículo 247.- Propuesta de reparto de fondos. {-}
+
+El Liquidador deberá proponer a los acreedores un reparto de fondos siempre que se reúnan los siguientes requisitos copulativos:
+
+1) Disponibilidad de fondos para abonar a los acreedores reconocidos una cantidad no inferior al cinco por ciento de sus acreencias.
+
+2) Reserva previa de los dineros suficientes para solventar los gastos del Procedimiento Concursal de Liquidación y los créditos de igual o mejor derecho cuya impugnación se encuentre pendiente.
+
+3) Reserva para responder a los acreedores residentes en el extranjero que no hayan alcanzado a comparecer, de conformidad a los plazos previstos en el Artículo 252.
+
+4) Sujeción al procedimiento establecido en Artículo siguiente.
+
+##### Artículo 248.- Procedimiento de reparto de fondos. {-}
+
+El Liquidador observará las disposiciones siguientes:
+
+1) La proposición será presentada al tribunal conjuntamente con un detalle completo del reparto que se pretende efectuar, sus montos, fórmula de cálculo utilizada y acreedores a pagar.
+
+2) El tribunal, al día siguiente de su proposición, tendrá por propuesto el reparto y ordenará al Liquidador publicarlo en el Boletín Concursal.
+
+3) Los acreedores que conjunta o separadamente representen al menos el 20% del pasivo con derecho a voto podrán objetar el reparto propuesto dentro del plazo de tres días contado desde la notificación.
+
+Si la objeción deducida afecta la totalidad del reparto, éste no podrá llevarse a cabo mientras la oposición no sea resuelta en primera instancia. Si la objeción deducida es parcial, el reparto podrá ejecutarse en la parte no disputada.
+
+4) El tribunal conferirá traslado al Liquidador de todas las objeciones deducidas, el que deberá ser evacuado dentro de tercero día.
+
+5) Transcurrido el término anterior, haya o no evacuado el Liquidador el traslado conferido, el tribunal resolverá sin más trámite la objeción. La resolución que se dicte no será susceptible de recurso alguno.
+
+6) El objetante vencido será condenado al pago de costas, las que se calcularán sobre la base del monto objetado, salvo que haya tenido motivo plausible para litigar. Si la objeción hubiere sido deducida conjuntamente por dos o más acreedores, y fuere rechazada, todos ellos serán solidariamente responsables del pago de las costas.
+
+El Liquidador deberá perseguir en beneficio de la masa el cobro de las costas por cuerda separada ante el mismo tribunal, pudiendo solicitar que las fijadas sean descontadas del reparto presente o futuro que les correspondería al o los objetantes vencidos.
+
+7) La resolución que acoja una impugnación deberá ordenar la confección de una nueva proposición de reparto.
+
+8) No habiéndose deducido objeciones, rechazadas las interpuestas o modificado el reparto en la forma decretada por el tribunal, éste ordenará al Liquidador la distribución del reparto dentro del plazo de tres días contado desde que expire el término para objetar.
+
+9) La resolución que ordene la distribución del reparto se notificará en el Boletín Concursal y desde entonces los acreedores incluidos en el reparto podrán reclamar al Liquidador el pago de las sumas correspondientes. En el caso de créditos afectos a subordinación, el o los acreedores subordinados contribuirán al pago de sus respectivos acreedores beneficiarios, a prorrata, con lo que les correspondiere en dicho reparto de su crédito subordinado.
+
+##### Artículo 249.- Acreedor condicional. {-}
+
+El acreedor condicional podrá solicitar al tribunal que ordene la reserva de los fondos que le corresponderían cumplida la condición, o su entrega bajo caución suficiente de restituirlos a la masa, con el interés corriente para operaciones reajustables, para el caso de que la condición no se verifique. La caución señalada deberá constar en boleta de garantía bancaria o póliza de seguro, debiendo ser reemplazada o renovada sucesivamente hasta que se cumpla la respectiva condición.
+
+##### Artículo 250.- Deudas y créditos recíprocos. {-}
+
+Cuando un acreedor fuere a la vez Deudor de quien está sujeto a un Procedimiento Concursal de Liquidación, sin que hubiere operado la compensación, las sumas que le correspondan a dicho acreedor se aplicarán al pago de su deuda, aunque no estuviere vencida.
+
+##### Artículo 251.- Acreedores que verifican su crédito extraordinariamente. {-}
+
+La verificación de los créditos de los acreedores realizada extraordinariamente no suspenderá la realización de los repartos, pero si encontrándose pendiente el reconocimiento de estos nuevos créditos se ordenare otro reparto, dichos acreedores serán comprendidos en él, por la suma que corresponda, en conformidad al siguiente inciso, manteniéndose en depósito las sumas que invocan hasta que sus créditos queden reconocidos.
+Reconocidos sus créditos, los reclamantes tendrán derecho a exigir que los fondos materia de reparto que les hubieren correspondido en las distribuciones precedentes sean de preferencia cubiertos con los fondos no repartidos, pero no podrán demandar a los acreedores pagados en los anteriores repartos la devolución de cantidad alguna, aun cuando los bienes sujetos al Procedimiento Concursal de Liquidación no alcancen a cubrir íntegramente sus dividendos insolutos.
+
+##### Artículo 252.- Situación de acreedores fuera del territorio de la República. {-}
+
+La cantidad reservada para los acreedores residentes fuera del territorio de la República permanecerá en depósito hasta el vencimiento del duplo del término de emplazamiento que les corresponda. Vencido este plazo, se aplicará al pago de los créditos reconocidos.
+
+##### Artículo 253.- Destino de los fondos en caso de no comparecencia. {-}
+
+Si algún acreedor comprendido en la nómina de reparto no compareciere a recibir lo que le corresponda tres meses después de la notificación del reparto, el Liquidador depositará su importe en arcas fiscales a la orden del acreedor. Transcurridos tres años desde dicho depósito sin que se haya cobrado su monto, la Tesorería General de la República lo destinará en su integridad al Cuerpo de Bomberos.
+
+#### Párrafo 4. Del término del Procedimiento Concursal de Liquidación {-}
+
+##### Artículo 254.- Resolución de término. {-}
+
+Una vez publicada la resolución que tuvo por aprobada la Cuenta Final de Administración en los términos descritos en los Artículos 49 y siguientes, el tribunal, de oficio, a petición de parte o de la Superintendencia, dictará una resolución declarando terminado el Procedimiento Concursal de Liquidación.
+
+Con la resolución de término del Procedimiento Concursal de Liquidación, el Deudor recuperará la libre administración de sus bienes.
+
+##### Artículo 255.- Efectos de la Resolución de Término. {-}
+
+Una vez que se encuentre firme o ejecutoriada la resolución que declara el término del Procedimiento Concursal de Liquidación, se entenderán extinguidos por el solo ministerio de la ley y para todos los efectos legales los saldos insolutos de las obligaciones contraídas por el Deudor con anterioridad al inicio del Procedimiento Concursal de Liquidación.
+
+Extinguidas las obligaciones conforme al inciso anterior, el Deudor se entenderá rehabilitado para todos los efectos legales, salvo que la resolución señalada en el Artículo precedente establezca algo distinto.
+
+##### Artículo 256.- Recursos contra la resolución de término. {-}
+
+La resolución que declare terminado el Procedimiento Concursal de Liquidación será susceptible de recurso de apelación, el que se concederá en el solo efecto devolutivo, conservando en el intertanto el Deudor la libre administración de sus bienes.
+
+#### Párrafo 5. Del término del Procedimiento Concursal de Liquidación por Acuerdo de Reorganización Judicial {-}
+
+##### Artículo 257.- Término del Procedimiento Concursal de Liquidación por Acuerdo de Reorganización Judicial. {-}
+
+Durante el Procedimiento Concursal de Liquidación, una vez notificada la nómina de créditos reconocidos, el Deudor podrá acompañar al tribunal competente una propuesta de Acuerdo de Reorganización Judicial y le serán aplicables las disposiciones contenidas en el Capítulo III de esta ley, en lo que fuere procedente y en todo lo que no se regule en las disposiciones siguientes.
+
+Presentada una propuesta de Acuerdo de Reorganización Judicial, el tribunal dictará una resolución que la tendrá por presentada. Una copia de la referida propuesta deberá ser publicada por el Liquidador en el Boletín Concursal.
+
+En la misma resolución el tribunal competente fijará la fecha, lugar y hora en que deberá efectuarse la Junta de Acreedores llamada a conocer y pronunciarse sobre la propuesta de Acuerdo de Reorganización Judicial que presente el Deudor.
+
+##### Artículo 258.- Acuerdo de la Junta de Acreedores. {-}
+
+Cada una de las clases o categorías de propuestas de Acuerdo de Reorganización Judicial acompañado por el Deudor será analizada, deliberada y acordada en forma separada en la misma Junta, sin perjuicio de lo previsto en el Artículo 82.
+
+La propuesta de Acuerdo de Reorganización Judicial se entenderá acordada cuando cuente con el consentimiento del Deudor y el voto conforme de los dos tercios o más de los acreedores presentes, que representen tres cuartas partes del total del pasivo con derecho a voto, correspondiente a su respectiva clase o categoría. Las Personas Relacionadas con el Deudor no podrán votar, ni sus créditos se considerarán en el monto del pasivo.
+
+##### Artículo 259.- Vigencia del Acuerdo de Reorganización Judicial. {-}
+
+El Acuerdo del Reorganización Judicial regirá una vez vencido el plazo para impugnarlo, sin que se hubiere impugnado. En este caso se entenderá aprobado y el tribunal competente lo declarará así de oficio o a petición de cualquier interesado o del Veedor. En la misma resolución declarará el término legal del Procedimiento Concursal de Liquidación.
+
+Si el Acuerdo de Reorganización Judicial fuere impugnado, regirá desde que cause ejecutoria la resolución que deseche la o las impugnaciones y lo declare aprobado.
+
+Las resoluciones a que se refieren los incisos primero y segundo de este Artículo se notificarán en el Boletín Concursal.
+
+El Acuerdo de Reorganización Judicial regirá no obstante las impugnaciones que se hubieren interpuesto en su contra. Sin embargo, si las impugnaciones fueren interpuestas por acreedores de una determinada clase o categoría, que representen en su conjunto a lo menos el 30% del pasivo con derecho a voto de su respectiva clase o categoría, el Acuerdo de Reorganización Judicial no empezará a regir hasta que dichas impugnaciones fueren desestimadas por sentencia firme y ejecutoriada. En este caso, y en el del inciso segundo de este Artículo, los actos y contratos ejecutados o celebrados por el Deudor en el tiempo que medie entre el Acuerdo de Reorganización Judicial y la fecha en que quede ejecutoriada la resolución que acoja las impugnaciones, no podrán dejarse sin efecto.
+
+El recurso de casación deducido en contra de la resolución de segunda instancia que deseche la o las impugnaciones no suspende el cumplimiento de dicha resolución, incluso si la parte vencida solicita se otorgue fianza de resultas por la parte vencedora.
+Si se acogen las impugnaciones al Acuerdo de Reorganización Judicial por resolución firme o ejecutoriada, las obligaciones y derechos existentes entre el Deudor y sus acreedores con anterioridad a dicho Acuerdo, volverán al estado en que se encontraban en el Procedimiento Concursal de Liquidación.
+
+
+
+
+
+
+
+
+

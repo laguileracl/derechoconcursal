@@ -1,0 +1,159 @@
+## CAPÍTULO I: DISPOSICIONES GENERALES {-}
+
+##### Artículo 1°.- Ámbito de aplicación de la ley. {-}
+
+La presente ley establece el régimen general de los procedimientos concursales destinados a reorganizar y/o liquidar los pasivos y activos de una Empresa Deudora, y a repactar los pasivos y/o liquidar los activos de una Persona Deudora.
+
+##### Artículo 2°.- Definiciones.{-}
+
+Para efectos de esta ley, se entenderá, en singular o plural, por:
+
+**1) Acuerdo de Reorganización Judicial:** aquel que se suscribe entre una Empresa Deudora y sus acreedores con el fin de reestructurar sus activos y pasivos, con sujeción al procedimiento establecido en los Títulos 1 y 2 del Capítulo III. Para los efectos de esta ley, se denominará indistintamente “Acuerdo de Reorganización Judicial” o “Acuerdo”.
+
+**2) Acuerdo de Reorganización Extrajudicial o Simplificado:** aquel que se suscribe entre una Empresa Deudora y sus acreedores con el fin de reestructurar sus activos y pasivos, y que se somete a aprobación judicial con sujeción al procedimiento establecido en el Título 3 del Capítulo III. Para los efectos de esta ley, se denominará indistintamente “Acuerdo de Reorganización Extrajudicial o Simplificado” o “Acuerdo Simplificado”.
+
+**3) Avalúo Fiscal:** el precio de los inmuebles fijado por el Servicio de Impuestos Internos para los efectos del pago del impuesto territorial.
+
+**4) Audiencia Inicial:** aquella que se lleva a cabo en el tribunal competente con presencia del Deudor, si comparece, en un procedimiento de Liquidación Forzosa, en los términos establecidos en el artículo 120.
+
+**5) Audiencia de Prueba:** aquella que se verifica en el marco de un juicio de oposición, en la cual se rinden las pruebas ofrecidas en la Audiencia Inicial, en los términos establecidos en el artículo 126.
+
+**6) Audiencia de Fallo:** aquella en que se notifica la sentencia definitiva, poniéndose término al juicio de oposición, en lo términos establecidos en el artículo 127.
+
+**7) Boletín Concursal:** plataforma electrónica a cargo de la Superintendencia de Insolvencia y Reemprendimiento, de libre acceso al público, gratuito, en la que se publicarán todas las resoluciones que se dicten y las actuaciones que se realicen en los procedimientos concursales, salvo que la ley ordene otra forma de notificación.
+
+**8) Certificado de Nominación:** aquel emitido por la Superintendencia de Insolvencia y Reemprendimiento, en el cual consta la nominación del Veedor o Liquidador, titular y suplente.
+
+**9) Comisión de acreedores:** aquella que puede designarse en un Procedimiento Concursal de Reorganización con el objetivo de supervigilar el cumplimiento del Acuerdo de Reorganización Judicial, con las atribuciones y deberes que dicho acuerdo señale; o aquella que puede designarse en un Procedimiento Concursal de Liquidación para adoptar los acuerdos que la Junta de Acreedores le delegue.
+
+**10) Correo electrónico:** medio de comunicación electrónica que permite el envío y recepción de información y documentos electrónicos.
+
+**11) Cuenta final de administración:** aquella rendición de cuentas de su gestión que debe efectuar tanto el Veedor como el Liquidador en la oportunidad prevista en la ley, ante el tribunal, en la que deberá observarse la normativa contable, tributaria y financiera aplicable, así como la de esta ley.
+
+**12) Deudor:** toda Empresa Deudora o Persona Deudora, atendido el Procedimiento Concursal de que se trate y la naturaleza de la disposición a que se refiera.
+
+**13) Empresa Deudora:** toda persona jurídica privada, con o sin fines de lucro, y toda persona natural contribuyente de primera categoría o del número 2) del artículo 42 del decreto ley Nº 824, del Ministerio de Hacienda, de 1974, que aprueba la ley sobre impuesto a la renta.
+
+**14) Informe del Veedor:** aquel relativo al Acuerdo de Reorganización Judicial, regulado en el número 8) del artículo 57 de esta ley.
+
+**15) Junta de Acreedores:** órgano concursal constituido por los acreedores de un Deudor sujeto a un Procedimiento Concursal, de conformidad a esta ley. Se denominarán, según corresponda, Junta Constitutiva, Junta Ordinaria o Junta Extraordinaria, o indistintamente “Junta de Acreedores” o “Junta”.
+
+**16) Ley:** ley de Reorganización y Liquidación de Activos de Empresas y Personas.
+
+**17) Liquidación Forzosa:** demanda presentada por cualquier acreedor del Deudor, conforme al Párrafo 2 del Título 1 del Capítulo IV de esta ley.
+
+**18) Liquidación Voluntaria:** aquella solicitada por el Deudor, conforme al Párrafo 1 del Título 1 del Capítulo IV de esta ley.
+
+**19) Liquidador:** aquella persona natural sujeta a la fiscalización de la Superintendencia de Insolvencia y Reemprendimiento, cuya misión principal es realizar el activo del Deudor y propender al pago de los créditos de sus acreedores, de acuerdo a lo establecido en esta ley.
+
+**20) Martillero Concursal:** aquel martillero público que voluntariamente se somete a la fiscalización de la Superintendencia de Insolvencia y Reemprendimiento, cuya misión principal es realizar los bienes del Deudor, en conformidad a lo encomendado por la Junta de Acreedores y de acuerdo a lo establecido en esta ley.
+
+**21) Nómina de Veedores:** registro público integrado por las personas naturales nombradas como Veedores por la Superintendencia de Insolvencia y Reemprendimiento, en conformidad al Párrafo 1 del Título 1 del Capítulo II de esta ley.
+
+**22) Nómina de Liquidadores:** registro público integrado por las personas naturales nombradas como Liquidadores por la Superintendencia de Insolvencia y Reemprendimiento, en conformidad al Párrafo 1 del Título 2 del Capítulo II de esta ley.
+
+**23) Nómina de Árbitros Concursales:** registro público integrado por las personas naturales nombradas como Árbitros Concursales por la Superintendencia de Insolvencia y Reemprendimiento, en conformidad al Capítulo VII de esta ley.
+
+**24) Nómina de Martilleros Concursales:** registro público llevado por la Superintendencia de Insolvencia y Reemprendimiento que integra a los martilleros públicos que cumplen con lo prescrito en el artículo 213 de esta ley.
+
+**25) Persona Deudora:** toda persona natural no comprendida en la definición de Empresa Deudora.
+
+**26) Persona Relacionada:** se considerarán Personas Relacionadas respecto de una o más personas o de sus representantes, las siguientes:
+
+a) El cónyuge, los ascendientes, descendientes y colaterales por consanguinidad o afinidad hasta el sexto grado inclusive y las sociedades en que éstos participen, con excepción de aquellas inscritas en el Registro de Valores.
+
+b) Las personas que se encuentren en alguna de las situaciones a que se refiere el artículo 100 de la ley Nº 18.045, de Mercado de Valores.
+
+**27) Procedimiento Concursal:** cualquiera de los regulados en esta ley, denominados, indistintamente, Procedimiento Concursal de Reorganización de la Empresa Deudora, Procedimiento Concursal de Liquidación de la Empresa Deudora, Procedimiento Concursal de Renegociación de la Persona Deudora y Procedimiento Concursal de Liquidación de los Bienes de la Persona Deudora.
+
+**28) Procedimiento Concursal de Liquidación:** aquél regulado en el Capítulo IV de esta ley.
+
+**29) Procedimiento Concursal de Reorganización:** aquél regulado en el Capítulo III de esta ley.
+
+**30) Procedimiento Concursal de Renegociación:** aquél regulado en el Capítulo V de esta ley.
+
+**31) Protección Financiera Concursal:** aquel período que esta ley otorga al Deudor que se somete al Procedimiento Concursal de Reorganización, durante el cual no podrá solicitarse ni declararse su liquidación, ni podrán iniciarse en su contra juicios ejecutivos, ejecuciones de cualquier clase o restituciones en los juicios de arrendamiento. Dicho período será el comprendido entre la notificación de la Resolución de Reorganización y el Acuerdo de Reorganización Judicial, o el plazo fijado por la ley si este último no se acuerda.
+
+**32) Quórum Especial:** el conformado por dos tercios del pasivo total con derecho a voto verificado y/o reconocido, según corresponda, en el Procedimiento Concursal respectivo.
+
+**33) Quórum Calificado:** el conformado por la mayoría absoluta del pasivo total con derecho a voto verificado y/o reconocido, según corresponda, en el Procedimiento Concursal respectivo.
+
+**34) Quórum Simple:** el conformado por la mayoría del pasivo verificado y/o reconocido, según corresponda, con derecho a voto, presente en la Junta de Acreedores, en el Procedimiento Concursal respectivo.
+
+**35) Resolución de Admisibilidad:** aquella resolución administrativa dictada por la Superintendencia de Insolvencia y Reemprendimiento conforme al artículo 263, que produce los efectos del artículo 264, ambos del Capítulo V de esta ley.
+
+**36) Resolución de Liquidación:** aquella resolución judicial dictada en un Procedimiento Concursal que produce los efectos señalados en el Párrafo 4 del Título 1 del Capítulo IV de esta ley.
+
+**37) Resolución de Reorganización:** aquella resolución judicial dictada en un Procedimiento Concursal que produce los efectos señalados en el artículo 57 de esta ley.
+
+**38) Servicios de Utilidad Pública:** aquéllos considerados como consumos básicos, cuyos prestadores se encuentran regulados por leyes especiales y sujetos a la fiscalización de la autoridad, tales como agua, electricidad, gas, teléfono e internet.
+
+**39) Superintendencia:** la Superintendencia de Insolvencia y Reemprendimiento.
+
+**40) Veedor:** aquella persona natural sujeta a la fiscalización de la Superintendencia de Insolvencia y Reemprendimiento, cuya misión principal es propiciar los acuerdos entre el Deudor y sus acreedores, facilitar la proposición de Acuerdos de Reorganización Judicial y resguardar los intereses de los acreedores, requiriendo las medidas precautorias y de conservación de los activos del Deudor, de acuerdo a lo establecido en esta ley.
+
+##### Artículo 3º.- Competencia.{-}
+
+Los Procedimientos Concursales contemplados en esta ley serán de competencia del juzgado de letras que corresponda al domicilio del Deudor, pudiendo interponer el acreedor el incidente de incompetencia del tribunal, de acuerdo a las reglas generales.
+
+En las ciudades asiento de Corte la distribución se regirá por un auto acordado dictado por la Corte de Apelaciones respectiva, considerando especialmente la radicación preferente de causas concursales en los tribunales que cuenten con la capacitación a que se refiere el inciso siguiente.
+
+Los jueces titulares y secretarios de los juzgados de letras que conozcan preferentemente de asuntos concursales deberán estar capacitados en derecho concursal, en especial, sobre las disposiciones de esta ley y de las leyes especiales que rijan estas materias.
+
+Cada Corte de Apelaciones adoptará las medidas pertinentes para garantizar la especialización a que se refiere la presente disposición.
+
+No obstante, los demás tribunales competentes estarán habilitados para conocer de asuntos concursales en el marco de sus atribuciones si, excepcionalmente y por circunstancias derivadas del sistema de distribución de trabajo, ello fuere necesario.
+
+El tribunal al cual corresponda conocer de un Procedimiento Concursal de aquellos contemplados en esta ley, no perderá su competencia por el hecho de existir entre los acreedores y el Deudor personas que gocen de fuero especial.
+
+Para los efectos de lo previsto en este artículo, la Academia Judicial coordinará la dictación de los cursos necesarios para la capacitación en derecho concursal de jueces titulares y secretarios de los juzgados de letras dentro del programa de perfeccionamiento de miembros del Poder Judicial establecido en la ley N° 19.346, que crea la Academia Judicial.
+
+##### Artículo 4°.- Recursos.{-}
+
+Las resoluciones judiciales que se pronuncien en los Procedimientos Concursales de Reorganización y de Liquidación establecidos en esta ley sólo serán susceptibles de los recursos que siguen:
+
+**1) Reposición:** procederá contra aquellas resoluciones susceptibles de este recurso conforme a las reglas generales, deberá interponerse dentro del plazo de tres días contado desde la notificación de aquélla y podrá resolverse de plano o previa tramitación incidental, según determine el tribunal. Contra la resolución que resuelva la reposición no procederá recurso alguno.
+
+**2) Apelación:** procederá contra las resoluciones que esta ley señale expresamente y deberá interponerse dentro del plazo de cinco días contado desde la notificación de aquéllas. Será concedida en el solo efecto devolutivo, salvo las excepciones que esta ley señale y, en ambos, casos gozará de preferencia para su inclusión en la tabla y para su vista y fallo.
+
+En el caso de las resoluciones susceptibles de recurrirse de reposición y de apelación, la segunda deberá interponerse en subsidio de la primera, de acuerdo a las reglas generales.
+
+**3) Casación:** procederá en los casos y en las formas establecidas en la ley.
+
+##### Artículo 5°.- Incidentes.{-}
+
+Sólo podrán promoverse incidentes en aquellas materias en que esta ley lo permita expresamente. Se tramitarán conforme a las reglas generales previstas en el Código de Procedimiento Civil y no suspenderán el Procedimiento Concursal, salvo que esta ley establezca lo contrario.
+
+##### Artículo 6º.- De las notificaciones.{-}
+
+Siempre que el tribunal ordene que una resolución se notifique por avisos, deberá realizarse mediante una publicación en el Boletín Concursal, entendiéndose notificada desde la fecha de su inserción en aquél.
+
+Las notificaciones efectuadas en el Boletín Concursal serán de carácter público y deberán ser realizadas por el Veedor, el Liquidador o la Superintendencia, según corresponda, dentro de los dos días siguientes a la dictación de las respectivas resoluciones, salvo que la norma correspondiente disponga un plazo diferente.
+
+Toda resolución que no tenga señalada una forma distinta de notificación, se entenderá efectuada mediante una publicación en el Boletín Concursal.
+
+Mediante norma de carácter general, la Superintendencia establecerá la forma de efectuar las publicaciones, los requisitos técnicos de operación y seguridad del Boletín Concursal y la obligación de actualizarlo diariamente por quien corresponda.
+
+Cada vez que se establezca que una resolución debe notificarse por Correo Electrónico, se estará a lo dispuesto en la norma de carácter general en cuanto a la forma de efectuarla. En todo caso, en la primera actuación que se realice ante el tribunal o la Superintendencia de Insolvencia y Reemprendimiento, según corresponda, en los Procedimientos Concursales, el Deudor, los acreedores y los terceros interesados señalarán una dirección de Correo Electrónico válida a la cual se deberán efectuar las notificaciones conforme a lo dispuesto precedentemente.
+
+La notificación por Correo Electrónico enviada a la dirección señalada por el respectivo notificado será válida, aun cuando aquella no se encontrare vigente, estuviere en desuso o no permitiere su recepción por el destinatario. Se entenderá notificado el destinatario desde el envío del Correo Electrónico a la referida dirección.
+
+En los casos en que no sea posible notificar por Correo Electrónico, se notificará por carta certificada y dicha notificación se entenderá efectuada al tercer día siguiente al de su recepción en la oficina de correos.
+
+De todas las notificaciones que se practiquen en virtud de lo dispuesto en este artículo se dejará constancia por escrito en el expediente, sin que sea necesaria certificación alguna al respecto.
+
+Cada vez que la ley ordene al Deudor señalar el Correo Electrónico de sus acreedores, se entenderá que debe indicar el de los representantes legales de aquéllos.
+
+Una vez finalizados los Procedimientos Concursales, en la forma prescrita en esta ley, la Superintendencia deberá proceder a la eliminación, modificación o bloqueo de los datos del Deudor en el Boletín Concursal, en conformidad con lo establecido en la ley N° 19.628, sobre protección de la vida privada.
+
+##### Artículo 7°.- Cómputo de plazos.{-}
+
+Los plazos de días establecidos en esta ley son de días hábiles, entendiéndose inhábiles los días domingos y feriados, salvo que se establezca que un plazo específico es de días corridos. Los plazos se computarán desde el día siguiente a aquél en que se notifique la resolución o el acto respectivo.
+
+Cuando esta ley establezca un plazo para actuaciones que deban realizarse antes de determinada fecha, éste se contará hacia atrás a partir del día inmediatamente anterior al de la respectiva actuación.
+
+##### Artículo 8°.- Exigibilidad.{-}
+
+Las normas contenidas en leyes especiales prevalecerán sobre las disposiciones de esta ley.
+
+Aquellas materias que no estén reguladas expresamente por leyes especiales, se regirán supletoriamente por las disposiciones de esta ley.
