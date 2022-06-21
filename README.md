@@ -5,5 +5,24 @@ Por medio de esta plataforma se busca crear una fuente actualizada del derecho c
 Es absolutamente bienvenido cualquier aporte que permita mejorar este trabajo.
 
 Luis Aguilera
-Editor
+
+## Contenidos
+
+### Leyes
+
+- Ley 20.720 
+
+
+### Instructivos Superintendencia.
+
+
+
+### Análisis jurisprudencia.
+
+
+### Papers / Estudios especializados.
+
+
+### Links relevantes 
+
 
